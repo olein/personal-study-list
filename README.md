@@ -1,4 +1,4 @@
-## Recent Blog Posts  
+## Personal Study List
 <!-- BLOG-POST-LIST:START -->
 - [How to Create SBOMs in Java with Maven and Gradle](https://foojay.io/today/how-to-create-sboms-in-java-with-maven-and-gradle/)
 - [Book review: “Practical Design Patterns for Java Developers”](https://foojay.io/today/book-review-practical-design-patterns-for-java-developers/)
