@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [Java 21 and the Upcoming Jakarta EE 11: A New Era of Cloud Native Java](https://foojay.io/today/java-21-and-the-upcoming-jakarta-ee-11-a-new-era-of-cloud-native-java/)
-- [OpenJDK Migration Book Review](https://foojay.io/today/openjdk-migration-book-review/)
-- [How to Participate in the Foojay Community Certification Project](https://foojay.io/today/how-to-participate-in-the-foojay-community-certification-project/)
-- [Spring Boot and React in Harmony](https://foojay.io/today/spring-boot-and-react-in-harmony/)
-- [Contributing to Open Source: Hacktoberfest](https://foojay.io/today/contributing-to-open-source-hacktoberfest/)
+- [FEPCOS-J &lpar;2&rpar; – Declaratively compose networked systems in Java](https://foojay.io/today/fuchs-2023-fepcos-j-02/)
+- [State of the Software Supply Chain Report: Key Takeaways for Java Developers](https://foojay.io/today/evolving-landscape-software-supply-chains-java-developers/)
+- [Send Your Logs To Loki](https://foojay.io/today/send-your-logs-to-loki/)
+- [Changes Included in the Stable release 23.08 of Azul Zulu Prime Builds of OpenJDK](https://foojay.io/today/changes-included-in-the-stable-release-23-08-of-azul-zulu-prime-builds-of-openjdk/)
+- [Patterns For The Design Of Microservices – Part 1](https://foojay.io/today/patterns-for-the-design-of-microservices-part-1/)
 <!-- BLOG-POST-LIST:END -->  
