@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [Book review: “Persistence Best Practices for Java Applications”](https://foojay.io/today/book-review-persistence-best-practices-for-java-applications/)
-- [JDWP, onthrow and a mysterious error](https://foojay.io/today/jdwp-onthrow-and-a-mysterious-error/)
-- [Navigating Behaviour with Events](https://foojay.io/today/navigating-behaviour-with-events/)
-- [Java 21 – JEP 445 – Unnamed Classes and Instance Main Methods](https://foojay.io/today/java-21-jep-445-unnamed-classes-and-instance-main-methods/)
-- [Payara Makes a Splash at Devoxx Belgium 2023](https://foojay.io/today/payara-makes-a-splash-at-devoxx-belgium-2023/)
+- [Python “magic” methods – part 2](https://foojay.io/today/python-magic-methods-part-2/)
+- [Python “magic” methods – part 1](https://foojay.io/today/python-magic-methods-part-1/)
+- [Putting JFR into Context](https://foojay.io/today/putting-jfr-into-context/)
+- [GlassFish Embedded – a simple way to run Jakarta EE apps](https://foojay.io/today/glassfish-embedded-a-simple-way-to-run-jakarta-ee-apps/)
+- [Controlling JIT Compiler Overhead to Avoid CPU Autoscaling](https://foojay.io/today/controlling-jit-compiler-overhead-to-avoid-cpu-autoscaling/)
 <!-- BLOG-POST-LIST:END -->  
