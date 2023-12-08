@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [Strategies for Managing State in Chronicle Services](https://foojay.io/today/strategies-for-managing-state-in-chronicle-services/)
-- [JavaFX Links of November 2023](https://foojay.io/today/javafx-links-of-november-2023/)
-- [Custom Events in the Blocky World: Using JFR in Minecraft](https://foojay.io/today/custom-events-in-the-blocky-world-using-jfr-in-minecraft/)
-- [Webinar: Harnessing the Power of AI Assistant in IntelliJ IDEA](https://foojay.io/today/webinar-harnessing-the-power-of-ai-assistant-in-intellij-idea/)
-- [SpringBoot 3.2 + CRaC](https://foojay.io/today/springboot-3-2-crac/)
+- [Chopping the monolith in a smarter way](https://foojay.io/today/chopping-the-monolith-in-a-smarter-way/)
+- [Who Killed the JVM? Attaching a Debugger Twice](https://foojay.io/today/who-killed-the-jvm-attaching-a-debugger-twice/)
+- [Couch to fully-observed code with Spring Boot 3.2, Micrometer Tracing, and Digma](https://foojay.io/today/couch-to-fully-observed-code-with-spring-boot-3-2-micrometer-tracing-and-digma/)
+- [Effective Cloud-Native Development with Open Liberty in Visual Studio Code](https://foojay.io/today/effective-cloud-native-development-open-liberty-vs-code/)
+- [Foojay Podcast #35: Dublin JUG](https://foojay.io/today/foojay-podcast-35/)
 <!-- BLOG-POST-LIST:END -->  
