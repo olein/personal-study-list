@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [Chopping the monolith in a smarter way](https://foojay.io/today/chopping-the-monolith-in-a-smarter-way/)
-- [Who Killed the JVM? Attaching a Debugger Twice](https://foojay.io/today/who-killed-the-jvm-attaching-a-debugger-twice/)
-- [Couch to fully-observed code with Spring Boot 3.2, Micrometer Tracing, and Digma](https://foojay.io/today/couch-to-fully-observed-code-with-spring-boot-3-2-micrometer-tracing-and-digma/)
-- [Effective Cloud-Native Development with Open Liberty in Visual Studio Code](https://foojay.io/today/effective-cloud-native-development-open-liberty-vs-code/)
-- [Foojay Podcast #35: Dublin JUG](https://foojay.io/today/foojay-podcast-35/)
+- [Integrate executable Java code in your blog posts, part 2: How to use dependencies](https://foojay.io/today/integrate-executable-java-code-in-your-blog-posts-part-2-how-to-use-dependencies/)
+- [Profiling Maven Projects with my IntelliJ Profiler Plugin](https://foojay.io/today/profiling-maven-projects-with-my-intellij-profiler-plugin/)
+- [FEPCOS-J &lpar;3&rpar; – Build native executables of Java-coded networked systems](https://foojay.io/today/fuchs-2023-fepcos-j-03-native-executables/)
+- [[Unit] Testing Supabase in Kotlin using Test Containers – PART 2](https://foojay.io/today/unit-testing-supabase-in-kotlin-using-test-containers-part-2/)
+- [Testing Spring Boot JMS with ActiveMQ Artemis and Testcontainers](https://foojay.io/today/testing-spring-boot-jms-with-activemq-artemis-and-testcontainers/)
 <!-- BLOG-POST-LIST:END -->  
