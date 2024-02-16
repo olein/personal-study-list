@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [The Evolution of Microservices with SOA: Navigating the Architectural Landscape](https://foojay.io/today/evolution-of-microservices-from-soa-to-modern-architecture/)
-- [Kicking the Tires of Docker Scout](https://foojay.io/today/kicking-the-tires-of-docker-scout/)
-- [Sorting Text in Java, How Complicated Can It Be?](https://foojay.io/today/sorting-text-in-java-how-complicated-can-it-be/)
-- [OpenRewrite: Migrate to Spring Boot 3.2](https://foojay.io/today/openrewrite-migrate-to-spring-boot-3-2/)
-- [Foojay Podcast 42: Jozi-JUG and Cape Town Java Community](https://foojay.io/today/foojay-podcast-42/)
+- [Video: Spring Boot Testcontainers Support for Local Development](https://foojay.io/today/video-spring-boot-testcontainers-support-for-local-development/)
+- [State of Open &lpar;Source?!&rpar; and Free AI – a FOSDEM recap](https://foojay.io/today/state-of-open-source-and-free-ai-a-fosdem-recap/)
+- [Top Most Detected Issues in Java Projects](https://foojay.io/today/top-most-detected-issues-in-java-projects/)
+- [Minimize Costs by Utilizing Cloud Storage with Spring-Data-Eclipse-Store](https://foojay.io/today/minimize-costs-by-utilizing-cloud-storage-with-spring-data-eclipse-store/)
+- [DTrace Revisited: Advanced Debugging Techniques](https://foojay.io/today/dtrace-revisited-advanced-debugging-techniques/)
 <!-- BLOG-POST-LIST:END -->  
