@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [Video: Spring Boot Testcontainers Support for Local Development](https://foojay.io/today/video-spring-boot-testcontainers-support-for-local-development/)
-- [State of Open &lpar;Source?!&rpar; and Free AI – a FOSDEM recap](https://foojay.io/today/state-of-open-source-and-free-ai-a-fosdem-recap/)
-- [Top Most Detected Issues in Java Projects](https://foojay.io/today/top-most-detected-issues-in-java-projects/)
-- [Minimize Costs by Utilizing Cloud Storage with Spring-Data-Eclipse-Store](https://foojay.io/today/minimize-costs-by-utilizing-cloud-storage-with-spring-data-eclipse-store/)
-- [DTrace Revisited: Advanced Debugging Techniques](https://foojay.io/today/dtrace-revisited-advanced-debugging-techniques/)
+- [Hello eBPF: Tail calls and your first eBPF application &lpar;4&rpar;](https://foojay.io/today/hello-ebpf-tail-calls-and-your-first-ebpf-application-4/)
+- [12 Lessons Learned From Doing The One Billion Row Challenge](https://foojay.io/today/12-lessons-learned-from-doing-the-one-billion-row-challenge/)
+- [Cloud Cost Optimization Is Hard, Java Can Help](https://foojay.io/today/cloud-cost-optimization-is-hard-java-can-help/)
+- [Hardening Apache APISIX with the OWASP’s Coraza and Core Ruleset](https://foojay.io/today/hardening-apache-apisix-with-the-owasps-coraza-and-core-ruleset/)
+- [Build Flexible Jakarta EE Applications With Apache CouchDB NoSQL Database](https://foojay.io/today/build-flexible-jakarta-ee-applications-with-apache-couchdb-nosql-database/)
 <!-- BLOG-POST-LIST:END -->  
