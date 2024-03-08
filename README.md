@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [JavaFX Links of February 2024](https://foojay.io/today/javafx-links-of-february-2024/)
-- [Builders, Withers, and Records: Java’s path to immutability](https://foojay.io/today/builders-withers-and-records-javas-path-to-immutability/)
-- [You’re Invited to IntelliJ IDEA Conf 2024!](https://foojay.io/today/youre-invited-to-intellij-idea-conf-2024/)
-- [Foojay Podcast #43: Modern Java Testing](https://foojay.io/today/foojay-podcast-43/)
-- [Hello eBPF: Tail calls and your first eBPF application &lpar;4&rpar;](https://foojay.io/today/hello-ebpf-tail-calls-and-your-first-ebpf-application-4/)
+- [Payara Cloud Hackathon is Open for Sign-ups!](https://foojay.io/today/payara-cloud-hackathon-is-open-for-sign-ups/)
+- [Hello eBPF: First steps with libbpf &lpar;5&rpar;](https://foojay.io/today/hello-ebpf-first-steps-with-libbpf-5/)
+- [Microservices Design Principles for Well-Crafted Architectures](https://foojay.io/today/microservices-design-principles-for-well-crafted-architecture/)
+- [Why I moved my blog to RIFE2 after 23 years?](https://foojay.io/today/why-i-moved-my-blog-to-rife2-after-23-years/)
+- [Foojay Podcast #44: Quarkus Club](https://foojay.io/today/foojay-podcast-44/)
 <!-- BLOG-POST-LIST:END -->  
