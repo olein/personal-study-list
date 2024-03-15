@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [Payara Cloud Hackathon is Open for Sign-ups!](https://foojay.io/today/payara-cloud-hackathon-is-open-for-sign-ups/)
-- [Hello eBPF: First steps with libbpf &lpar;5&rpar;](https://foojay.io/today/hello-ebpf-first-steps-with-libbpf-5/)
-- [Microservices Design Principles for Well-Crafted Architectures](https://foojay.io/today/microservices-design-principles-for-well-crafted-architecture/)
-- [Why I moved my blog to RIFE2 after 23 years?](https://foojay.io/today/why-i-moved-my-blog-to-rife2-after-23-years/)
-- [Foojay Podcast #44: Quarkus Club](https://foojay.io/today/foojay-podcast-44/)
+- [Increase readability and reduce complexity with Java’s Pattern Matching](https://foojay.io/today/increase-readability-and-reduce-complexity-with-javas-pattern-matching/)
+- [Running JavaFX applications on the Windows Subsystem for Linux and more](https://foojay.io/today/javafx-on-wsl/)
+- [Foojay.io Mini Conference at Uber, Amsterdam](https://foojay.io/today/foojay-io-mini-conference-at-uber-amsterdam/)
+- [Secure your API with these 16 Practices with Apache APISIX – part 2](https://foojay.io/today/secure-your-api-with-these-16-practices-with-apache-apisix-part-2/)
+- [Secure your API with these 16 Practices with Apache APISIX – part 1](https://foojay.io/today/secure-your-api-with-these-16-practices-with-apache-apisix-part-1/)
 <!-- BLOG-POST-LIST:END -->  
