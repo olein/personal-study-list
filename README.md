@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [Debugging Using JMX Revisited](https://foojay.io/today/debugging-using-jmx-revisited/)
-- [Smarter Logging in Spring Boot with AOP](https://foojay.io/today/smarter-logging-in-spring-boot-with-aop/)
-- [Getting Started with bld](https://foojay.io/today/getting-started-with-bld/)
-- [Foojay Podcast #47: Artificial Intelligence and Machine Learning with Java](https://foojay.io/today/foojay-podcast-47/)
-- [Free Foojay.io Tickets for JCON EUROPE, Cologne!](https://foojay.io/today/free-foojay-io-tickets-for-jcon-europe-cologne/)
+- [Java: Functional Programming f&lpar;x&rpar; – Part1](https://foojay.io/today/java-functional-programming/)
+- [The High Availability Features of Microservices using Chronicle Services](https://foojay.io/today/the-high-availability-features-of-microservices-using-chronicle-services/)
+- [Hello eBPF: Generating C Code &lpar;8&rpar;](https://foojay.io/today/hello-ebpf-generating-c-code-8/)
+- [Using my new Raspberry Pi to run an existing GitHub Action](https://foojay.io/today/using-my-new-raspberry-pi-to-run-an-existing-github-action/)
+- [Debug Without Breakpoints](https://foojay.io/today/debug-without-breakpoints/)
 <!-- BLOG-POST-LIST:END -->  
