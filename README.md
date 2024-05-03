@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [Java: Functional Programming f&lpar;x&rpar; – Part1](https://foojay.io/today/java-functional-programming/)
-- [The High Availability Features of Microservices using Chronicle Services](https://foojay.io/today/the-high-availability-features-of-microservices-using-chronicle-services/)
-- [Hello eBPF: Generating C Code &lpar;8&rpar;](https://foojay.io/today/hello-ebpf-generating-c-code-8/)
-- [Using my new Raspberry Pi to run an existing GitHub Action](https://foojay.io/today/using-my-new-raspberry-pi-to-run-an-existing-github-action/)
-- [Debug Without Breakpoints](https://foojay.io/today/debug-without-breakpoints/)
+- [Writing a Data Orchestrator in Java](https://foojay.io/today/writing-a-data-orchestrator-in-java/)
+- [Crowd-Publishing the 10x Java Dev Book](https://foojay.io/today/crowd-publishing-the-10x-java-dev-book/)
+- [Five ways to pass parameters to Apache APISIX](https://foojay.io/today/five-ways-to-pass-parameters-to-apache-apisix/)
+- [JavaFX Links of April 2024](https://foojay.io/today/javafx-links-of-april-2024/)
+- [Why This JCON Europe Talk Is Unmissable &lpar;Part 1&rpar;](https://foojay.io/today/why-this-jcon-europe-talk-is-unmissable-part-1/)
 <!-- BLOG-POST-LIST:END -->  
