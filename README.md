@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [Writing a Data Orchestrator in Java](https://foojay.io/today/writing-a-data-orchestrator-in-java/)
-- [Crowd-Publishing the 10x Java Dev Book](https://foojay.io/today/crowd-publishing-the-10x-java-dev-book/)
-- [Five ways to pass parameters to Apache APISIX](https://foojay.io/today/five-ways-to-pass-parameters-to-apache-apisix/)
-- [JavaFX Links of April 2024](https://foojay.io/today/javafx-links-of-april-2024/)
-- [Why This JCON Europe Talk Is Unmissable &lpar;Part 1&rpar;](https://foojay.io/today/why-this-jcon-europe-talk-is-unmissable-part-1/)
+- [SQL Query Optimization: How to Identify and Optimize Slow SQL Queries](https://foojay.io/today/sql-query-optimization-how-to-identify-and-optimize-slow-sql-queries/)
+- [Spring AI: How to Write GenAI Applications with Java](https://foojay.io/today/spring-ai-how-to-write-genai-applications-with-java/)
+- [Duplicate Finder for Documentation](https://foojay.io/today/duplicate-finder-for-documentation/)
+- [Is your Java application ready for the next generation of server CPUs?](https://foojay.io/today/is-your-java-application-ready-for-the-next-generation-of-server-cpus/)
+- [Remotely Recording a JFR Log from a Container &lpar;Without Using the Command Line&rpar;](https://foojay.io/today/remotely-recording-a-jfr-log-from-a-container-without-using-the-command-line/)
 <!-- BLOG-POST-LIST:END -->  
