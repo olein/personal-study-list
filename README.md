@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [SQL Query Optimization: How to Identify and Optimize Slow SQL Queries](https://foojay.io/today/sql-query-optimization-how-to-identify-and-optimize-slow-sql-queries/)
-- [Spring AI: How to Write GenAI Applications with Java](https://foojay.io/today/spring-ai-how-to-write-genai-applications-with-java/)
-- [Duplicate Finder for Documentation](https://foojay.io/today/duplicate-finder-for-documentation/)
-- [Is your Java application ready for the next generation of server CPUs?](https://foojay.io/today/is-your-java-application-ready-for-the-next-generation-of-server-cpus/)
-- [Remotely Recording a JFR Log from a Container &lpar;Without Using the Command Line&rpar;](https://foojay.io/today/remotely-recording-a-jfr-log-from-a-container-without-using-the-command-line/)
+- [A Modern Approach to Middleware with Chronicle](https://foojay.io/today/a-modern-approach-to-middleware-with-chronicle/)
+- [NODES 2024: How to Submit a Technical Presentation](https://foojay.io/today/nodes-2024-how-to-submit-a-technical-presentation/)
+- [The Vary HTTP Header](https://foojay.io/today/the-vary-http-header/)
+- [Software Testing as a Debugging Tool](https://foojay.io/today/software-testing-as-a-debugging-tool/)
+- [Hello eBPF: XDP-based Packet Filter &lpar;9&rpar;](https://foojay.io/today/hello-ebpf-xdp-based-packet-filter-9/)
 <!-- BLOG-POST-LIST:END -->  
