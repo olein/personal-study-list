@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [Who instruments the instrumenters?](https://foojay.io/today/who-instruments-the-instrumenters/)
-- [My opinion on the Tauri framework](https://foojay.io/today/my-opinion-on-the-tauri-framework/)
-- [Five Java Developer Must-Haves For Ultra-Fast Startup Solutions](https://foojay.io/today/five-java-developer-must-haves/)
-- [Indexing all of Wikipedia, on a laptop](https://foojay.io/today/indexing-all-of-wikipedia-on-a-laptop/)
-- [Top 7 Java Microservices Frameworks](https://foojay.io/today/top-7-java-microservices-frameworks/)
+- [How to Identify Dependencies in Your Codebase During Microservices Migration](https://foojay.io/today/how-to-identify-dependencies-in-your-codebase-during-microservices-migration/)
+- [Exploring New Features in JDK 23: Simplifying Java with Primitive Type Patterns with JEP 455](https://foojay.io/today/exploring-new-features-in-jdk-23-simplifying-java-with-primitive-type-patterns-with-jep-455/)
+- [Debugging Kubernetes Part 1: An Introduction](https://foojay.io/today/debugging-kubernetes-part-1-an-introduction/)
+- [Workflow, From Stateless To Stateful](https://foojay.io/today/workflow-from-stateless-to-stateful/)
+- [Java: Functional Programming f&lpar;x&rpar; – Part2](https://foojay.io/today/java-functional-programming-fx-part2/)
 <!-- BLOG-POST-LIST:END -->  
