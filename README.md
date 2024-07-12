@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [The Best Way to Handle Phone Numbers](https://foojay.io/today/the-best-way-to-handle-phone-numbers/)
-- [Java: Demystifying The Stream API – Part 3](https://foojay.io/today/java-demystifying-the-stream-api-part-3/)
-- [What’s wrong with createDirectories&lpar;&rpar; – A Beginner’s Guide to IntelliJ Profiler](https://foojay.io/today/beginners-guide-to-java-profiler/)
-- [beetRoot: Yet Another Web Framework?](https://foojay.io/today/beetroot-yet-another-web-framework/)
-- [Step up your coding with Continuous Feedback: Free Udemy Course](https://foojay.io/today/step-up-your-coding-with-continuous-feedback-free-udemy-course/)
+- [Structured Concurrency is More Than ShutdownOnFailure](https://foojay.io/today/structured-concurrency-is-more-than-shutdownonfailure/)
+- [Unsafe is Finally Going Away: Embracing Safer Memory Access with JEP 471](https://foojay.io/today/unsafe-is-finally-going-away-embracing-safer-memory-access-with-jep-471/)
+- [9 Best Java Profilers to Use in 2024](https://foojay.io/today/9-best-java-profilers-to-use-in-2024/)
+- [Dynamic watermarking with imgproxy and Apache APISIX](https://foojay.io/today/dynamic-watermarking-with-imgproxy-and-apache-apisix/)
+- [Dynamic watermarking on the JVM](https://foojay.io/today/dynamic-watermarking-on-the-jvm/)
 <!-- BLOG-POST-LIST:END -->  
