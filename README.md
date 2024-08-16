@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [Get Started With Allocation Profiling](https://foojay.io/today/get-started-with-allocation-profiling/)
-- [How does it feel to test a compiler?](https://foojay.io/today/how-does-it-feel-to-test-a-compiler/)
-- [JavaFX Nodes versus Canvas](https://foojay.io/today/javafx-nodes-versus-canvas/)
-- [Free tier API with Apache APISIX](https://foojay.io/today/free-tier-api-with-apache-apisix/)
-- [Differentiating rate limits in Apache APISIX](https://foojay.io/today/differentiating-rate-limits-in-apache-apisix/)
+- [Defining patterns of data transfers for Java applications with TornadoVM](https://foojay.io/today/defining-patterns-of-data-transfers-for-java-applications-with-tornadovm/)
+- [DevIgnition with Foojay.io at Washington DC JUG](https://foojay.io/today/devignition-with-foojay-io-at-washington-dc-jug/)
+- [Trash Pandas Love Enterprise Java Garbage Code](https://foojay.io/today/trash-pandas-love-enterprise-java-garbage-code/)
+- [Run AI-enabled Jakarta EE and MicroProfile applications with LangChain4j and Open Liberty](https://foojay.io/today/run-ai-enabled-jakarta-ee-and-microprofile-applications-with-langchain4j-and-open-liberty/)
+- [Consequences of DORA on Java and OpenJDK with Azul](https://foojay.io/today/consequences-of-dora-on-java-and-openjdk-with-azul/)
 <!-- BLOG-POST-LIST:END -->  
