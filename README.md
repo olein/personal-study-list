@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [Defining patterns of data transfers for Java applications with TornadoVM](https://foojay.io/today/defining-patterns-of-data-transfers-for-java-applications-with-tornadovm/)
-- [DevIgnition with Foojay.io at Washington DC JUG](https://foojay.io/today/devignition-with-foojay-io-at-washington-dc-jug/)
-- [Trash Pandas Love Enterprise Java Garbage Code](https://foojay.io/today/trash-pandas-love-enterprise-java-garbage-code/)
-- [Run AI-enabled Jakarta EE and MicroProfile applications with LangChain4j and Open Liberty](https://foojay.io/today/run-ai-enabled-jakarta-ee-and-microprofile-applications-with-langchain4j-and-open-liberty/)
-- [Consequences of DORA on Java and OpenJDK with Azul](https://foojay.io/today/consequences-of-dora-on-java-and-openjdk-with-azul/)
+- [Creating cloud-native Java applications with the 12-factor app methodology](https://foojay.io/today/creating-cloud-native-java-applications-with-the-12-factor-app-methodology/)
+- [Running JavaFX applications on ARM with Azul Zulu](https://foojay.io/today/running-javafx-applications-on-arm-with-azul-zulu/)
+- [OpenTelemetry Tracing on Spring Boot, Java Agent vs. Micrometer Tracing](https://foojay.io/today/opentelemetry-tracing-on-spring-boot-java-agent-vs-micrometer-tracing/)
+- [The Impact of the EU DORA Act on Non-EU Financial Organizations](https://foojay.io/today/the-impact-of-the-eu-dora-act-on-non-eu-financial-organizations/)
+- [Sustainable Software Engineering: Input Requested!](https://foojay.io/today/sustainable-software-engineering-input-requested/)
 <!-- BLOG-POST-LIST:END -->  
