@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [Creating cloud-native Java applications with the 12-factor app methodology](https://foojay.io/today/creating-cloud-native-java-applications-with-the-12-factor-app-methodology/)
-- [Running JavaFX applications on ARM with Azul Zulu](https://foojay.io/today/running-javafx-applications-on-arm-with-azul-zulu/)
-- [OpenTelemetry Tracing on Spring Boot, Java Agent vs. Micrometer Tracing](https://foojay.io/today/opentelemetry-tracing-on-spring-boot-java-agent-vs-micrometer-tracing/)
-- [The Impact of the EU DORA Act on Non-EU Financial Organizations](https://foojay.io/today/the-impact-of-the-eu-dora-act-on-non-eu-financial-organizations/)
-- [Sustainable Software Engineering: Input Requested!](https://foojay.io/today/sustainable-software-engineering-input-requested/)
+- [Four Easy Ways to Analyze your Java and Kotlin Code for Security Problems](https://foojay.io/today/four-easy-ways-to-analyze-your-java-and-kotlin-code-for-security-problems/)
+- [Get Recognized for your Cloud-Native Java Development Skills with this New Badge](https://foojay.io/today/get-recognized-for-your-cloud-native-java-development-skills-with-this-new-badge/)
+- [IBM Semeru Runtimes for Java includes FIPS 140-3 certified cryptography](https://foojay.io/today/ibm-semeru-java-fips140-3-cryptographic-standard/)
+- [Debugging Kubernetes: Troubleshooting Guide](https://foojay.io/today/debugging-kubernetes-troubleshooting-guide/)
+- [Unsupported OpenJDK Distributions are at Risk of Non-Compliance with DORA](https://foojay.io/today/unsupported-openjdk-distributions-are-at-risk-of-non-compliance-with-dora/)
 <!-- BLOG-POST-LIST:END -->  
