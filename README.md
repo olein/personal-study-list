@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [Four Easy Ways to Analyze your Java and Kotlin Code for Security Problems](https://foojay.io/today/four-easy-ways-to-analyze-your-java-and-kotlin-code-for-security-problems/)
-- [Get Recognized for your Cloud-Native Java Development Skills with this New Badge](https://foojay.io/today/get-recognized-for-your-cloud-native-java-development-skills-with-this-new-badge/)
-- [IBM Semeru Runtimes for Java includes FIPS 140-3 certified cryptography](https://foojay.io/today/ibm-semeru-java-fips140-3-cryptographic-standard/)
-- [Debugging Kubernetes: Troubleshooting Guide](https://foojay.io/today/debugging-kubernetes-troubleshooting-guide/)
-- [Unsupported OpenJDK Distributions are at Risk of Non-Compliance with DORA](https://foojay.io/today/unsupported-openjdk-distributions-are-at-risk-of-non-compliance-with-dora/)
+- [Top Security Flaws Hiding In Your Code Right Now: And How To Fix Them](https://foojay.io/today/top-security-flaws-hiding-in-your-code-right-now-and-how-to-fix-them/)
+- [Updating the Twelve-Factor app methodology: A call for participation](https://foojay.io/today/updating-the-twelve-factor-app-methodology-a-call-for-participation/)
+- [Java 23: What’s New?](https://foojay.io/today/java-23-whats-new/)
+- [Implementing the Idempotency-Key specification on Apache APISIX](https://foojay.io/today/implementing-the-idempotency-key-specification-on-apache-apisix/)
+- [When &lpar;not&rpar; to write an Apache APISIX plugin](https://foojay.io/today/when-not-to-write-an-apache-apisix-plugin/)
 <!-- BLOG-POST-LIST:END -->  
