@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [Top Security Flaws Hiding In Your Code Right Now: And How To Fix Them](https://foojay.io/today/top-security-flaws-hiding-in-your-code-right-now-and-how-to-fix-them/)
-- [Updating the Twelve-Factor app methodology: A call for participation](https://foojay.io/today/updating-the-twelve-factor-app-methodology-a-call-for-participation/)
-- [Java 23: What’s New?](https://foojay.io/today/java-23-whats-new/)
-- [Implementing the Idempotency-Key specification on Apache APISIX](https://foojay.io/today/implementing-the-idempotency-key-specification-on-apache-apisix/)
-- [When &lpar;not&rpar; to write an Apache APISIX plugin](https://foojay.io/today/when-not-to-write-an-apache-apisix-plugin/)
+- [Health Check Response Format for HTTP APIs](https://foojay.io/today/health-check-response-format-for-http-apis/)
+- [DRY your Apache APISIX config](https://foojay.io/today/dry-your-apache-apisix-config/)
+- [A Fresh Look at Embedded Java](https://foojay.io/today/a-fresh-look-at-embedded-java/)
+- [Press the Easy Button: Organize a Virtual Conference Schedule with a Graph Database](https://foojay.io/today/press-the-easy-button-organize-a-virtual-conference-schedule-with-a-graph-database/)
+- [Browserless Testing of Vaadin Applications with Karibu Testing](https://foojay.io/today/browserless-testing-of-vaadin-applications-with-karibu-testing/)
 <!-- BLOG-POST-LIST:END -->  
