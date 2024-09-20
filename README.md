@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [Health Check Response Format for HTTP APIs](https://foojay.io/today/health-check-response-format-for-http-apis/)
-- [DRY your Apache APISIX config](https://foojay.io/today/dry-your-apache-apisix-config/)
-- [A Fresh Look at Embedded Java](https://foojay.io/today/a-fresh-look-at-embedded-java/)
-- [Press the Easy Button: Organize a Virtual Conference Schedule with a Graph Database](https://foojay.io/today/press-the-easy-button-organize-a-virtual-conference-schedule-with-a-graph-database/)
-- [Browserless Testing of Vaadin Applications with Karibu Testing](https://foojay.io/today/browserless-testing-of-vaadin-applications-with-karibu-testing/)
+- [TestPostForSorting](https://foojay.io/today/testpostforsorting/)
+- [TornadoVM for RISC-V Accelerators](https://foojay.io/today/tornadovm-for-risc-v-accelerators/)
+- [The Persistent Threat: Why Major Vulnerabilities Like Log4Shell and Spring4Shell Remain Significant](https://foojay.io/today/the-persistent-threat-why-major-vulnerabilities-like-log4shell-and-spring4shell-remain-significant/)
+- [Java 23 Has Arrived, And It Brings a Truckload of Changes](https://foojay.io/today/java-23-has-arrived-and-it-brings-a-truckload-of-changes/)
+- [Foojay Podcast #57: Welcome to OpenJDK &lpar;Java&rpar; 23](https://foojay.io/today/foojay-podcast-57/)
 <!-- BLOG-POST-LIST:END -->  
