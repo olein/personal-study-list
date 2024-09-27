@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [TestPostForSorting](https://foojay.io/today/testpostforsorting/)
+- [Exploring New Features in JDK 23: Factory Pattern with Flexible Constructor Bodies with JEP-482](https://foojay.io/today/exploring-new-features-in-jdk-23-factory-pattern-with-flexible-constructor-bodies-with-jep-482/)
+- [Run true-to-production tests on your MicroProfile and Jakarta EE applications](https://foojay.io/today/true-to-production-testing-java-apps/)
+- [Server-Side Rendering with Spring Boot](https://foojay.io/today/server-side-rendering-with-spring-boot/)
+- [A Short History of AJAX and SSR](https://foojay.io/today/a-short-history-of-ajax-and-ssr/)
 - [TornadoVM for RISC-V Accelerators](https://foojay.io/today/tornadovm-for-risc-v-accelerators/)
-- [The Persistent Threat: Why Major Vulnerabilities Like Log4Shell and Spring4Shell Remain Significant](https://foojay.io/today/the-persistent-threat-why-major-vulnerabilities-like-log4shell-and-spring4shell-remain-significant/)
-- [Java 23 Has Arrived, And It Brings a Truckload of Changes](https://foojay.io/today/java-23-has-arrived-and-it-brings-a-truckload-of-changes/)
-- [Foojay Podcast #57: Welcome to OpenJDK &lpar;Java&rpar; 23](https://foojay.io/today/foojay-podcast-57/)
 <!-- BLOG-POST-LIST:END -->  
