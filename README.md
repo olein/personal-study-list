@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [Exploring New Features in JDK 23: Builder Pattern Simplicity with JEP-455 Primitive Types in Patterns, instanceof, and switch &lpar;Preview&rpar;](https://foojay.io/today/exploring-new-features-in-jdk-23-builder-pattern-simplicity-with-jep-455-primitive-types-in-patterns-instanceof-and-switch-preview/)
-- [Unleashing the Power of Git Bisect](https://foojay.io/today/unleashing-the-power-of-git-bisect/)
-- [Easily containerize Java applications with cloud native buildpacks](https://foojay.io/today/easily-containerize-java-applications-with-cloud-native-buildpacks/)
-- [FEPCOS-J: Implementing a Java Server and a Rust Client without Manual Network Programming](https://foojay.io/today/fuchs2024-fepcos-j-java-server-and-rust-client/)
-- [Exploring New Features in JDK 23: Null object pattern to avoid null pointer exception with JEP-455](https://foojay.io/today/exploring-new-features-in-jdk-23-null-object-pattern-to-avoid-null-pointer-exception-with-jep-455/)
+- [Profile IntelliJ IDEA with its own profiler](https://foojay.io/today/profile-intellij-idea-with-its-own-profiler/)
+- [Exploring New Features in JDK 23: Gatherers upgrades pipeline design pattern JEP-461](https://foojay.io/today/exploring-new-features-in-jdk-23-gatherers-upgrades-pipeline-design-pattern-jep-461/)
+- [Augmenting the client with HTMX](https://foojay.io/today/augmenting-the-client-with-htmx/)
+- [Augmenting the client with Alpine.js](https://foojay.io/today/augmenting-the-client-with-alpine-js/)
+- [Augmenting the client with Vue.js](https://foojay.io/today/augmenting-the-client-with-vue-js/)
 <!-- BLOG-POST-LIST:END -->  
