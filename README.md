@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
+- [Issues with old GlassFish server? Upgrade to Eclipse GlassFish!](https://foojay.io/today/issues-with-old-glassfish-server-upgrade-to-eclipse-glassfish/)
+- [Foojay Podcast #64: Interviews at JFall about open source, OpenJDK evolutions, Project Loom, JVM, and more!](https://foojay.io/today/foojay-podcast-64/)
 - [Warp: the new CRaC engine](https://foojay.io/today/warp-the-new-crac-engine/)
 - [Duplicate Finder for Text: Requirements](https://foojay.io/today/duplicate-finder-for-text-requirements/)
 - [Foojay Podcast #63: How do we keep our Java applications up to date and secure?](https://foojay.io/today/foojay-podcast-63/)
-- [Run a Java Lambda Function From a Docker image](https://foojay.io/today/run-a-java-lambda-function-from-a-docker-image/)
-- [Speed up your Spring Batch with Native Image and GraalVM](https://foojay.io/today/speed-up-your-spring-batch-with-native-image-and-graalvm/)
 <!-- BLOG-POST-LIST:END -->  
