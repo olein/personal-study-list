@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [Reflections on 2024: A Remarkable Year for OmniFish, GlassFish, Piranha, and Jakarta EE](https://foojay.io/today/reflections-on-2024-a-remarkable-year-for-omnifish-glassfish-piranha-and-jakarta-ee/)
-- [An Example of HACS: Adaptive Lighting](https://foojay.io/today/an-example-of-hacs-adaptive-lighting/)
-- [Rate limiting with Redis: An essential guide](https://foojay.io/today/rate-limiting-with-redis-an-essential-guide/)
-- [Make the Life of your Developer Client’s Easier with Smart Object Builders](https://foojay.io/today/make-the-life-of-your-developer-clients-easier-with-smart-builders/)
-- [Integrating Google Analytics With Vaadin Flow: A Step-By-Step Guide](https://foojay.io/today/integrating-google-analytics-with-vaadin-flow-a-step-by-step-guide/)
+- [Receiving Mails in Java with IMAP or POP3](https://foojay.io/today/receiving-mails-in-java-with-imap-or-pop3/)
+- [Challenge yourself with Application Observability Code Challenges](https://foojay.io/today/challenge-yourself-with-application-observability-code-challenges/)
+- [How JVM handles exceptions](https://foojay.io/today/how-jvm-handles-exceptions/)
+- [Fixed Window Counter Rate Limiter &lpar;Redis &amp; Java&rpar;](https://foojay.io/today/fixed-window-counter-rate-limiter-redis-java/)
+- [Foojay Podcast #65: Boost Your Career in 2025!](https://foojay.io/today/foojay-podcast-65/)
 <!-- BLOG-POST-LIST:END -->  
