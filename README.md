@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [Pi4J Welcomes Java 21 on the Raspberry Pi](https://foojay.io/today/pi4j-welcomes-java-21-on-the-raspberry-pi/)
-- [Event-Driven Architecture and Change Data Capture Made Easy](https://foojay.io/today/event-driven-architecture-and-change-data-capture-made-easy/)
-- [Webinar: Find Undead Code in Your Java Environments](https://foojay.io/today/webinar-find-undead-code-in-your-java-environments/)
-- [A Glance into JFR Class and Method Tagging](https://foojay.io/today/a-glance-into-jfr-class-and-method-tagging/)
-- [Remote Development Made Simple with DevPod](https://foojay.io/today/remote-development-made-simple-with-devpod/)
+- [Spring Cloud Stream: Demystifying Event-Driven Architecture](https://foojay.io/today/spring-cloud-stream-demystifying-event-driven-architecture/)
+- [Front End Debugging Part 3: Networking](https://foojay.io/today/front-end-debugging-part-3-networking/)
+- [Building local LLM AI-Powered Applications with Quarkus, Ollama and Testcontainers](https://foojay.io/today/building-local-llm-ai-powered-applications-with-quarkus-ollama-and-testcontainers/)
+- [Securing Vaadin Applications with Microsoft Entra](https://foojay.io/today/securing-vaadin-applications-with-microsoft-entra/)
+- [Java 24 : What’s New?](https://foojay.io/today/java-24-whats-new/)
 <!-- BLOG-POST-LIST:END -->  
