@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [Demo Application with CRaC and Loading Data in Memory](https://foojay.io/today/demo-application-with-crac-and-loading-data-in-memory/)
-- [Path Traversal Vulnerability in Deep Java Library &lpar;DJL&rpar; and Its Impact on Java AI Development](https://foojay.io/today/path-traversal-vulnerability-in-deep-java-library-djl-and-its-impact-on-java-ai-development/)
-- [Creating SBOMs with the Snyk CLI](https://foojay.io/today/creating-sboms-with-the-snyk-cli/)
-- [Code Reviews with AI: a Developer Guide](https://foojay.io/today/code-reviews-with-ai-a-developer-guide/)
-- [Extending Java APIs – Add Missing Features Without the Hassle](https://foojay.io/today/extending-java-apis-add-missing-features-without-the-hassle/)
+- [Interview with Abdoulaye Wade Cissé: Using a JavaFX application as a virtual chemistry and biology lab](https://foojay.io/today/interview-with-abdoulaye-wade-cisse-using-a-javafx-application-as-a-virtual-chemistry-and-biology-lab/)
+- [Introduction to intermediate operations modeler: Stream Gatherers](https://foojay.io/today/introduction-to-intermediate-operations-modeler-stream-gatherers/)
+- [Breaktime Tech Talks &lpar;Ep37&rpar;: Vector Database Frustration + Microsoft LazyGraphRAG](https://foojay.io/today/breaktime-tech-talks-ep37-vector-database-frustration-microsoft-lazygraphrag/)
+- [Java 24 Rolls Out Today! Find Out Why It’s Aptly Named](https://foojay.io/today/java-24-rolls-out-today-find-out-why-its-aptly-named/)
+- [Foojay Podcast #68: Welcome to OpenJDK &lpar;Java&rpar; 24](https://foojay.io/today/foojay-podcast-68/)
 <!-- BLOG-POST-LIST:END -->  
