@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
+- [JavaFX Links of March 2025](https://foojay.io/today/javafx-links-of-march-2025/)
+- [Video series “JavaFX In Action”, Part 4 with Mike Hearn &lpar;Conveyor&rpar;, Sven Reimers &lpar;JTaccuino&rpar;, and Chris Newland &lpar;DemoFX, JitWatch&rpar;](https://foojay.io/today/video-series-javafx-in-action-part-4/)
+- [One giant Kubernetes cluster for everything](https://foojay.io/today/one-giant-kubernetes-cluster-for-everything/)
+- [WebAssembly on Kubernetes](https://foojay.io/today/webassembly-on-kubernetes/)
 - [Interview with Abdoulaye Wade Cissé: Using a JavaFX application as a virtual chemistry and biology lab](https://foojay.io/today/interview-with-abdoulaye-wade-cisse-using-a-javafx-application-as-a-virtual-chemistry-and-biology-lab/)
-- [Introduction to intermediate operations modeler: Stream Gatherers](https://foojay.io/today/introduction-to-intermediate-operations-modeler-stream-gatherers/)
-- [Breaktime Tech Talks &lpar;Ep37&rpar;: Vector Database Frustration + Microsoft LazyGraphRAG](https://foojay.io/today/breaktime-tech-talks-ep37-vector-database-frustration-microsoft-lazygraphrag/)
-- [Java 24 Rolls Out Today! Find Out Why It’s Aptly Named](https://foojay.io/today/java-24-rolls-out-today-find-out-why-its-aptly-named/)
-- [Foojay Podcast #68: Welcome to OpenJDK &lpar;Java&rpar; 24](https://foojay.io/today/foojay-podcast-68/)
 <!-- BLOG-POST-LIST:END -->  
