@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [Six JDK 24 Features You Should Know About](https://foojay.io/today/six-jdk-24-features-you-should-know-about/)
-- [Breaktime Tech Talks &lpar;Ep38&rpar;: Spring AI Debugging + How to Contribute to Open Source](https://foojay.io/today/breaktime-tech-talks-ep38-spring-ai-debugging-how-to-contribute-to-open-source/)
-- [Clean your Memory: From Finalize to Cleaner](https://foojay.io/today/clean-memory-from-finalize-to-cleaner/)
-- [JavaFX Links of March 2025](https://foojay.io/today/javafx-links-of-march-2025/)
-- [Video series “JavaFX In Action”, Part 4 with Mike Hearn &lpar;Conveyor&rpar;, Sven Reimers &lpar;JTaccuino&rpar;, and Chris Newland &lpar;DemoFX, JitWatch&rpar;](https://foojay.io/today/video-series-javafx-in-action-part-4/)
+- [Time to panic? AI and Cybercrime legislation is on your doorstep now](https://foojay.io/today/time-to-panic-ai-and-cybercrime-legislation-is-on-your-doorstep-now/)
+- [Register for Foojay Webinar: “Java’s Place in the AI Revolution”](https://foojay.io/today/webinar-java-ai/)
+- [Mutation Testing in Rust](https://foojay.io/today/mutation-testing-in-rust/)
+- [The try block in Rust](https://foojay.io/today/the-try-block-in-rust/)
+- [JavaPro Shout Out: “From Reactive Streams to Virtual Threads”](https://foojay.io/today/javapro-shout-out-from-reactive-streams-to-virtual-threads/)
 <!-- BLOG-POST-LIST:END -->  
