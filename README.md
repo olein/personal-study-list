@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [Still Using JUnit Like It’s 2017? Learn What You’ve Missed—from the Team That Built It](https://foojay.io/today/still-using-junit-like-its-2017-learn-what-youve-missed-from-the-team-that-built-it/)
-- [JavaFX Links of April 2025](https://foojay.io/today/javafx-links-of-april-2025/)
-- [Supercharge Your Jakarta EE Skills with These Must-Read Guides](https://foojay.io/today/supercharge-your-jakarta-ee-skills-with-these-must-read-guides/)
-- [IBM’s Chief Java Architect Flies in from Canada to Share JVM Optimization Secrets—Will You Be There?](https://foojay.io/today/ibms-chief-java-architect-flies-in-from-canada-to-share-jvm-optimization-secrets-will-you-be-there/)
-- [Foojay Webinar Live Stream: Java’s Place in the AI Revolution](https://foojay.io/today/foojay-webinar-live-stream-javas-place-in-the-ai-revolution/)
+- [GenAI blood, sweat, and tears: Loading data to Pinecone](https://foojay.io/today/genai-blood-sweat-and-tears-loading-data-to-pinecone/)
+- [Book Review: Raising Young Coders](https://foojay.io/today/book-review-raising-young-coders/)
+- [Building FormPilot: My Journey Creating an AI-Powered Form Filler with RAG, LangChain4j, and Ollama](https://foojay.io/today/building-formpilot-my-journey-creating-an-ai-powered-form-filler-with-rag-langchain4j-and-ollama/)
+- [Local AI with Spring: Building Privacy-First Agents Using Ollama](https://foojay.io/today/local-ai-with-spring-building-privacy-first-agents-using-ollama/)
+- [Semantic Search with Spring Boot &amp; Redis](https://foojay.io/today/semantic-search-with-spring-boot-redis/)
 <!-- BLOG-POST-LIST:END -->  
