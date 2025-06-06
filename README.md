@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [Brokk: AI for Large &lpar;Java&rpar; Codebases](https://foojay.io/today/brokk-for-java-developers/)
-- [Testing MongoDB Atlas Search Java Apps Using TestContainers](https://foojay.io/today/testing-mongodb-atlas-search-java-apps-using-testcontainers/)
-- [10 Best Practises For Jakarta EE Performance Optimization](https://foojay.io/today/10-best-practises-for-jakarta-ee-performance-optimization/)
-- [Intro to RAG: Foundations of Retrieval Augmented Generation, part 1](https://foojay.io/today/intro-to-rag-foundations-of-retrieval-augmented-generation-part-1/)
-- [Azul and JetBrains Collaborate to Enhance Runtime Performance for Kotlin Workloads](https://foojay.io/today/azul-and-jetbrains-collaborate-to-enhance-runtime-performance-for-kotlin-workloads/)
+- [MongoDB Aggregation Framework: A Beginner’s Guide](https://foojay.io/today/mongodb-aggregation-framework-a-beginners-guide/)
+- [Java’s Structured Concurrency: Finally Finding Its Footing](https://foojay.io/today/javas-structured-concurrency-finally-finding-its-footing/)
+- [Cloudflare Tunnel for Home Assistant](https://foojay.io/today/cloudflare-tunnel-for-home-assistant/)
+- [Foojay Podcast #72: JCon Report, Part 1 – Grow your career, public speaking, 30 years of Java, greener coding,…](https://foojay.io/today/foojay-podcast-72/)
+- [JavaFX Links of May 2025](https://foojay.io/today/javafx-links-of-may-2025/)
 <!-- BLOG-POST-LIST:END -->  
