@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [MongoDB Aggregation Framework: A Beginner’s Guide](https://foojay.io/today/mongodb-aggregation-framework-a-beginners-guide/)
-- [Java’s Structured Concurrency: Finally Finding Its Footing](https://foojay.io/today/javas-structured-concurrency-finally-finding-its-footing/)
-- [Cloudflare Tunnel for Home Assistant](https://foojay.io/today/cloudflare-tunnel-for-home-assistant/)
-- [Foojay Podcast #72: JCon Report, Part 1 – Grow your career, public speaking, 30 years of Java, greener coding,…](https://foojay.io/today/foojay-podcast-72/)
-- [JavaFX Links of May 2025](https://foojay.io/today/javafx-links-of-may-2025/)
+- [How ReadyNow Improves Java Warmup Time](https://foojay.io/today/how-readynow-improves-java-warmup-time/)
+- [Java Concurrency Best Practices for MongoDB](https://foojay.io/today/java-concurrency-best-practices-for-mongodb/)
+- [Performance Best Practise No. 1: Optimize Database Operations](https://foojay.io/today/performance-best-practise-no-1-optimize-database-operations/)
+- [Intro to RAG: Foundations of Retrieval Augmented Generation, part 2](https://foojay.io/today/intro-to-rag-foundations-of-retrieval-augmented-generation-part-2/)
+- [Authoring an OpenRewrite Recipe](https://foojay.io/today/authoring-an-openrewrite-recipe/)
 <!-- BLOG-POST-LIST:END -->  
