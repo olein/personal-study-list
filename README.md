@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [How ReadyNow Improves Java Warmup Time](https://foojay.io/today/how-readynow-improves-java-warmup-time/)
-- [Java Concurrency Best Practices for MongoDB](https://foojay.io/today/java-concurrency-best-practices-for-mongodb/)
-- [Performance Best Practise No. 1: Optimize Database Operations](https://foojay.io/today/performance-best-practise-no-1-optimize-database-operations/)
-- [Intro to RAG: Foundations of Retrieval Augmented Generation, part 2](https://foojay.io/today/intro-to-rag-foundations-of-retrieval-augmented-generation-part-2/)
-- [Authoring an OpenRewrite Recipe](https://foojay.io/today/authoring-an-openrewrite-recipe/)
+- [Multi-cloud Strategies With MongoDB Atlas](https://foojay.io/today/multi-cloud-strategies-with-mongodb-atlas/)
+- [Spring Boot + Kafka Streams: Event Routing &amp; Testing](https://foojay.io/today/spring-boot-kafka-streams-event-routing-testing/)
+- [Java, What’s Old? Part I: Collections](https://foojay.io/today/java-whats-old-part-i-collections/)
+- [Book Review: Writing for Developers](https://foojay.io/today/book-review-writing-for-developers/)
+- [Ensuring Safe and Reliable AI Interactions with LLM Guardrails](https://foojay.io/today/ensuring-safe-and-reliable-ai-interactions-with-llm-guardrails/)
 <!-- BLOG-POST-LIST:END -->  
