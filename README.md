@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [Improve Your Java Applications’ Startup and Compilation Speed with Optimizer Hub](https://foojay.io/today/improve-your-java-applications-startup-and-compilation-speed-with-optimizer-hub/)
-- [How to Identify the Underlying Causes of Connection Timeout Errors for MongoDB With Java](https://foojay.io/today/how-to-identify-the-underlying-causes-of-connection-timeout-errors-for-mongodb-with-java/)
-- [Build a Sentiment Analysis API in Java with Quarkus and Local LLMs](https://foojay.io/today/build-a-sentiment-analysis-api-in-java-with-quarkus-and-local-llms/)
-- [Benchmarking and profiling Java with JMH](https://foojay.io/today/benchmarking-and-profiling-java-with-jmh/)
-- [Clean and Modular Java: A Hexagonal Architecture Approach](https://foojay.io/today/clean-and-modular-java-a-hexagonal-architecture-approach/)
+- [Data Modeling for Java Developers: Structuring With PostgreSQL and MongoDB](https://foojay.io/today/data-modeling-for-java-developers-structuring-with-postgresql-and-mongodb/)
+- [Java 21+ Not Working on the Raspberry Pi Zero 2](https://foojay.io/today/java-21-not-working-on-the-raspberry-pi-zero-2/)
+- [Kotlin adoption inside ING, five years later](https://foojay.io/today/ing-kotlin-adoption-five-years/)
+- [Java Virtual Threads in Action: Optimizing MongoDB Operation](https://foojay.io/today/java-virtual-threads-in-action-optimizing-mongodb-operation/)
+- [Prime Time: The High Performance Java Event](https://foojay.io/today/prime-time-the-high-performance-java-event/)
 <!-- BLOG-POST-LIST:END -->  
