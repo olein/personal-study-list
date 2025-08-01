@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [Introducing a New Java DMX512 Library With Demo JavaFX User Interface](https://foojay.io/today/introducing-a-new-java-dmx512-library-with-demo-javafx-user-interface/)
-- [Agent Memory with Spring AI &amp; Redis](https://foojay.io/today/agent-memory-with-spring-ai-redis/)
-- [Java 22 to 24: Level up your Java Code by embracing new features in a safe way](https://foojay.io/today/java-22-to-24-level-up-your-java-code-by-embracing-new-features-in-a-safe-way/)
-- [MongoDB ACID Transactions With Java](https://foojay.io/today/mongodb-acid-transactions-with-java/)
-- [AI Newsletter #1](https://foojay.io/today/ai-newsletter-1/)
+- [JavaFX Links of July 2025](https://foojay.io/today/javafx-links-of-july-2025/)
+- [Java, What’s Old? Part II: Utils](https://foojay.io/today/java-whats-old-part-ii-utils/)
+- [Robust AI Applications with LangChain4j Guardrails and Spring Boot](https://foojay.io/today/building-robust-ai-applications-with-langchain4j-guardrails-and-spring-boot/)
+- [Why Mirroring Production in Dev Helps You Avoid Costly Mistakes](https://foojay.io/today/why-mirroring-production-in-dev-helps-you-avoid-costly-mistakes/)
+- [CodeRabbit Tutorial for Java Developers](https://foojay.io/today/coderabbit-tutorial-for-java-developers/)
 <!-- BLOG-POST-LIST:END -->  
