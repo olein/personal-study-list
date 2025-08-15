@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [Semantic Caching with SpringBoot &amp; Redis](https://foojay.io/today/semantic-caching-with-springboot-redis/)
-- [Pattern-matching across different languages](https://foojay.io/today/pattern-matching-across-different-languages/)
-- [Run an Atlas Cluster Locally in Minutes](https://foojay.io/today/run-an-atlas-cluster-locally-in-minutes/)
-- [JC-AI Newsletter #2](https://foojay.io/today/jc-ai-newsletter-2/)
-- [Release V0.0.2 of Java DMX512 Library With Universes and USB-to-DMX support](https://foojay.io/today/release-v0-0-2-of-java-dmx512-library-with-universes-and-usb-to-dmx-support/)
+- [Domain-Driven Design in Java: A Practical Guide](https://foojay.io/today/domain-driven-design-in-java-a-practical-guide/)
+- [Enforcing Governance in MongoDB Atlas with Resource Policies](https://foojay.io/today/enforcing-governance-in-mongodb-atlas-with-resource-policies/)
+- [Do we understand the value of AI knowledge ?](https://foojay.io/today/do-we-understand-the-value-of-ai-knowledge/)
+- [Preparing for Spring Framework 7 and Spring Boot 4](https://foojay.io/today/preparing-for-spring-framework-7-and-spring-boot-4/)
+- [New Features in Jakarta EE 11, with Examples](https://foojay.io/today/new-features-in-jakarta-ee-11-with-examples/)
 <!-- BLOG-POST-LIST:END -->  
