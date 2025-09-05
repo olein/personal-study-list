@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [What happens when a Primary fails in a MongoDB replica set? Automatic failovers?](https://foojay.io/today/what-happens-when-a-primary-fails-in-a-mongodb-replica-set-automatic-failovers/)
-- [GitHub workflows tips and tricks](https://foojay.io/today/github-workflows-tips-and-tricks/)
-- [Git default options](https://foojay.io/today/git-default-options/)
-- [AI Gives Time, Not Confidence: Developer Productivity Toolkit](https://foojay.io/today/ai-gives-time-not-confidence-developer-productivity-toolkit/)
-- [Managing MongoDB Database Changes Using Liquibase Pro](https://foojay.io/today/managing-mongodb-database-changes-using-liquibase-pro/)
+- [MongoDB Aggregations: Organizing Recipes by Meal Type with $group](https://foojay.io/today/mongodb-aggregations-organizing-recipes-by-meal-type-with-group/)
+- [KCDC 2025](https://foojay.io/today/kcdc-2025/)
+- [JC-AI Newsletter #4](https://foojay.io/today/jc-ai-newsletter-4/)
+- [Queryable Encryption With Spring Data MongoDB: How to Query Encrypted Fields](https://foojay.io/today/queryable-encryption-with-spring-data-mongodb-how-to-query-encrypted-fields/)
+- [AI4Devs Schedule Published](https://foojay.io/today/ai4devs-schedule-published/)
 <!-- BLOG-POST-LIST:END -->  
