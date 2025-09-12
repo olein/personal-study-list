@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [MongoDB Aggregations: Organizing Recipes by Meal Type with $group](https://foojay.io/today/mongodb-aggregations-organizing-recipes-by-meal-type-with-group/)
-- [KCDC 2025](https://foojay.io/today/kcdc-2025/)
-- [JC-AI Newsletter #4](https://foojay.io/today/jc-ai-newsletter-4/)
-- [Queryable Encryption With Spring Data MongoDB: How to Query Encrypted Fields](https://foojay.io/today/queryable-encryption-with-spring-data-mongodb-how-to-query-encrypted-fields/)
-- [AI4Devs Schedule Published](https://foojay.io/today/ai4devs-schedule-published/)
+- [MongoDB Schemas in Java](https://foojay.io/today/mongodb-schemas-in-java/)
+- [Stochastic AI Agility: Breaking Cycles of Debt](https://foojay.io/today/stochastic-ai-agility-breaking-cycles-of-debt/)
+- [JetBrains and Azul Collaborate on Kotlin Performance in Various JVMs](https://foojay.io/today/jetbrains-and-azul-collaborate-on-kotlin-performance-in-various-jvms/)
+- [Building REST APIs in Java with Spring Boot](https://foojay.io/today/building-rest-apis-in-java-with-spring-boot/)
+- [Spec-Driven Development with AI: A New Approach and a Journey into the Past](https://foojay.io/today/spec-driven-development-with-ai-a-new-approach-and-a-journey-into-the-past/)
 <!-- BLOG-POST-LIST:END -->  
