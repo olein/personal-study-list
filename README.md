@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Data-Driven Testing with Java and MongoDB](https://foojay.io/today/introduction-to-data-driven-testing-with-java-and-mongodb/)
+- [Design Patterns Update to JDK25](https://foojay.io/today/design-patterns-update-to-jdk25/)
+- [Power your AI application with Vector Search](https://foojay.io/today/power-your-ai-application-with-vector-search/)
+- [How to Kickstart Your Jakarta EE 11 Projects with Payara Starter](https://foojay.io/today/how-to-kickstart-your-jakarta-ee-11-projects-with-payara-starter/)
 - [From Zero to Vector Hero – Locally!](https://foojay.io/today/from-zero-to-vector-hero-locally/)
-- [JC-AI Newsletter #5](https://foojay.io/today/jc-ai-newsletter-5/)
-- [Azul’s High-Performance Java Platform Achieves Historic First with 10,000 Customer JVMs Collaborating and Sharing Performance Optimizations, Cutting Cloud Costs by 20%+](https://foojay.io/today/azuls-high-performance-java-platform-achieves-historic-first-with-10000-customer-jvms-collaborating-and-sharing-performance-optimizations-cutting-cloud-costs-by-20/)
-- [Best Practices for Deploying MongoDB in Kubernetes](https://foojay.io/today/best-practices-for-deploying-mongodb-in-kubernetes/)
-- [Here’s Java 25, Ready to Perform to the Limit](https://foojay.io/today/heres-java-25-ready-to-perform-to-the-limit/)
 <!-- BLOG-POST-LIST:END -->  
