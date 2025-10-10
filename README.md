@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [Ai4Devs Amsterdam: Successful Inaugural Developer-Focused AI Conference](https://foojay.io/today/ai4devs-amsterdam-successful-inaugural-developer-focused-ai-conference/)
-- [Agents Meet Databases: The Future of Agentic Architectures](https://foojay.io/today/agents-meet-databases-the-future-of-agentic-architectures/)
-- [Think in Graphs, Not Just Chains: JGraphlet for TaskPipelines](https://foojay.io/today/think-in-graphs-not-just-chains-jgraphlet-for-taskpipelines/)
-- [JC-AI Newsletter #6](https://foojay.io/today/jc-ai-newsletter-6/)
-- [Building an AI Semantic Movie Recommender With Vector Search](https://foojay.io/today/building-an-ai-semantic-movie-recommender-with-vector-search/)
+- [Keywords Meet Vectors: Hybrid Search on MongoDB](https://foojay.io/today/keywords-meet-vectors-hybrid-search-on-mongodb/)
+- [Working with Geo Location Data](https://foojay.io/today/working-with-geo-location-data/)
+- [Super Early Bird Tickets: Voxxed Days Amsterdam](https://foojay.io/today/super-early-bird-tickets-voxxed-days-amsterdam/)
+- [Take the State of Java 2025 Survey](https://foojay.io/today/take-the-state-of-java-2025-survey/)
+- [Foojay Podcast #79: AI4Devs Interviews – Part 1](https://foojay.io/today/foojay-podcast-79/)
 <!-- BLOG-POST-LIST:END -->  
