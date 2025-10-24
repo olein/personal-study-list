@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Keywords: Implementing Semantic Search in Java With Spring Data &lpar;Part 1&rpar;](https://foojay.io/today/beyond-keywords-implementing-semantic-search-in-java-with-spring-data-part-1/)
-- [How Chat Memory Manipulation Can Ruin Your AI System](https://foojay.io/today/how-chat-memory-manipulation-can-ruin-your-ai-system/)
-- [7 Habits of Highly Effective Java Coding](https://foojay.io/today/7-habits-of-highly-effective-java-coding/)
-- [The Cost of Not Knowing MongoDB – Part 1: appV0 to appV4](https://foojay.io/today/the-cost-of-not-knowing-mongodb-part-1-appv0-to-appv4/)
-- [JC-AI Newsletter #7](https://foojay.io/today/jc-ai-newsletter-7/)
+- [Leading the Way: Payara Platform Community 7 Beta Now Fully Jakarta EE 11 Certified](https://foojay.io/today/leading-the-way-payara-platform-community-7-beta-now-fully-jakarta-ee-11-certified/)
+- [Beyond Keywords: Optimizing Vector Search With Filters and Caching &lpar;Part 2&rpar;](https://foojay.io/today/beyond-keywords-optimizing-vector-search-with-filters-and-caching-part-2/)
+- [The Cost of Not Knowing MongoDB – Part 2 &lpar;appV5R0 to appV5R4&rpar;](https://foojay.io/today/the-cost-of-not-knowing-mongodb-part-2-appv5r0-to-appv5r4/)
+- [Transactions and ThreadLocal in Spring](https://foojay.io/today/transactions-and-threadlocal-in-spring/)
+- [Foojay Podcast #80: AI4Devs Interviews – Part 2](https://foojay.io/today/foojay-podcast-80/)
 <!-- BLOG-POST-LIST:END -->  
