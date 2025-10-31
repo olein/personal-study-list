@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [Leading the Way: Payara Platform Community 7 Beta Now Fully Jakarta EE 11 Certified](https://foojay.io/today/leading-the-way-payara-platform-community-7-beta-now-fully-jakarta-ee-11-certified/)
-- [Beyond Keywords: Optimizing Vector Search With Filters and Caching &lpar;Part 2&rpar;](https://foojay.io/today/beyond-keywords-optimizing-vector-search-with-filters-and-caching-part-2/)
-- [The Cost of Not Knowing MongoDB – Part 2 &lpar;appV5R0 to appV5R4&rpar;](https://foojay.io/today/the-cost-of-not-knowing-mongodb-part-2-appv5r0-to-appv5r4/)
-- [Transactions and ThreadLocal in Spring](https://foojay.io/today/transactions-and-threadlocal-in-spring/)
-- [Foojay Podcast #80: AI4Devs Interviews – Part 2](https://foojay.io/today/foojay-podcast-80/)
+- [JavaFX Links of October 2025](https://foojay.io/today/javafx-links-of-october-2025/)
+- [The Pitfall of Increasing Read Capacity by Reading From Secondary Nodes in a MongoDB Replica Set](https://foojay.io/today/the-pitfall-of-increasing-read-capacity-by-reading-from-secondary-nodes-in-a-mongodb-replica-set/)
+- [JC-AI Newsletter #8](https://foojay.io/today/jc-ai-newsletter-8/)
+- [BoxLang v1.6.0 – Performance, AI-Powered Docs, and Advanced Async Monitoring](https://foojay.io/today/boxlang-v1-6-0-performance-ai-powered-docs-and-advanced-async-monitoring-2/)
+- [Explore Spring Framework 7 Features—API Versioning](https://foojay.io/today/explore-spring-framework-7-features-api-versioning/)
 <!-- BLOG-POST-LIST:END -->  
