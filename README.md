@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [From Spring Boot To Jakarta EE 11: How Payara Starter Eases The Transition](https://foojay.io/today/from-spring-boot-to-jakarta-ee-11-how-payara-starter-eases-the-transition/)
-- [JC-AI Newsletter #10](https://foojay.io/today/jc-ai-newsletter-10/)
-- [The Visitor Pattern – ‘Revisited’ using Data Oriented Programming techniques](https://foojay.io/today/the-visitor-pattern-revisited-using-data-oriented-programming-techniques/)
-- [Will OpenJFX Be Merged Into OpenJDK? It Would Be a Perfect Match with Java on Mobile!](https://foojay.io/today/will-openjfx-be-merged-into-openjdk-it-would-be-a-perfect-match-with-java-on-mobile/)
-- [BoxLang Redis Has Landed: Enterprise-Grade Caching, Pub/Sub, and Distributed Locking](https://foojay.io/today/boxlang-redis-has-landed-enterprise-grade-caching-pub-sub-and-distributed-locking/)
+- [Building Systems That Know Why They Exist ~ When Data, Logic, and Intent Finally Align](https://foojay.io/today/building-systems-that-know-why-they-exist-when-data-logic-and-intent-finally-align/)
+- [Java 21+ on Raspberry Pi Zero 2 is Back In Business](https://foojay.io/today/java-21-on-raspberry-pi-zero-2-is-back-in-business/)
+- [Java 25: What’s New?](https://foojay.io/today/java-25-whats-new/)
+- [Atlas Searching with the Java Driver](https://foojay.io/today/atlas-searching-with-the-java-driver/)
+- [BoxLang RSS : Full-Featured RSS/Atom Feed Module for BoxLang](https://foojay.io/today/boxlang-rss-full-featured-rss-atom-feed-module-for-boxlang/)
 <!-- BLOG-POST-LIST:END -->  
