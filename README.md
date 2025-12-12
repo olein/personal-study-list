@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [Building Systems That Know Why They Exist ~ When Data, Logic, and Intent Finally Align](https://foojay.io/today/building-systems-that-know-why-they-exist-when-data-logic-and-intent-finally-align/)
-- [Java 21+ on Raspberry Pi Zero 2 is Back In Business](https://foojay.io/today/java-21-on-raspberry-pi-zero-2-is-back-in-business/)
-- [Java 25: What’s New?](https://foojay.io/today/java-25-whats-new/)
-- [Atlas Searching with the Java Driver](https://foojay.io/today/atlas-searching-with-the-java-driver/)
-- [BoxLang RSS : Full-Featured RSS/Atom Feed Module for BoxLang](https://foojay.io/today/boxlang-rss-full-featured-rss-atom-feed-module-for-boxlang/)
+- [How to publish a Java Maven project to Maven Central using JReleaser and GitHub Actions &lpar;2025 Guide&rpar;](https://foojay.io/today/how-to-publish-a-java-maven-project-to-maven-central-using-jreleaser-and-github-actions-2025-guide/)
+- [Building Java Microservices with the Repository Pattern](https://foojay.io/today/building-java-microservices-with-the-repository-pattern/)
+- [First Experiments with Java on the LattePanda IOTA: An Alternative to Raspberry Pi?](https://foojay.io/today/first-experiments-with-java-on-the-lattepanda-iota/)
+- [More Java From Azul!](https://foojay.io/today/more-java-from-azul/)
+- [Spring Boot 4 OpenTelemetry Guide: Metrics, Traces, and Logs Explained](https://foojay.io/today/spring-boot-4-opentelemetry-explained/)
 <!-- BLOG-POST-LIST:END -->  
