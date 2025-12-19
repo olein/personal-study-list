@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [How to publish a Java Maven project to Maven Central using JReleaser and GitHub Actions &lpar;2025 Guide&rpar;](https://foojay.io/today/how-to-publish-a-java-maven-project-to-maven-central-using-jreleaser-and-github-actions-2025-guide/)
-- [Building Java Microservices with the Repository Pattern](https://foojay.io/today/building-java-microservices-with-the-repository-pattern/)
-- [First Experiments with Java on the LattePanda IOTA: An Alternative to Raspberry Pi?](https://foojay.io/today/first-experiments-with-java-on-the-lattepanda-iota/)
-- [More Java From Azul!](https://foojay.io/today/more-java-from-azul/)
-- [Spring Boot 4 OpenTelemetry Guide: Metrics, Traces, and Logs Explained](https://foojay.io/today/spring-boot-4-opentelemetry-explained/)
+- [MongoDB and WiredTiger: A Journey Through the Storage Engine](https://foojay.io/today/mongodb-and-wiredtiger-a-journey-through-the-storage-engine/)
+- [Scalable Enterprise Java for the Cloud](https://foojay.io/today/scalable-enterprise-java-for-the-cloud/)
+- [Make Java Fleets Warm Up Faster on AWS With Azul Optimizer Hub](https://foojay.io/today/make-java-fleets-warm-up-faster-on-aws-with-azul-optimizer-hub/)
+- [Inside the Engine: The Sub-Millisecond Performance Relay of MongoDB 8.0](https://foojay.io/today/inside-the-engine-the-sub-millisecond-performance-relay-of-mongodb-8-0/)
+- [Announcing bx-ldap: Enterprise LDAP for BoxLang](https://foojay.io/today/announcing-bx-ldap-enterprise-ldap-for-boxlang/)
 <!-- BLOG-POST-LIST:END -->  
