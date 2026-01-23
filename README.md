@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [The FFM API: How OpenJDK Changed the Game for Native Interactions &lpar;And Made Pi4J Better!&rpar;](https://foojay.io/today/the-ffm-api-how-openjdk-changed-the-game-for-native-interactions-and-made-pi4j-better/)
-- [The Ultimate 10 Years Java Garbage Collection Guide &lpar;2016–2026&rpar; – Choosing the Right GC for Every Workload](https://foojay.io/today/the-ultimate-10-years-java-garbage-collection-guide-2016-2026-choosing-the-right-gc-for-every-workload/)
-- [Pointer Arithmetic in Modern Java](https://foojay.io/today/pointer-arithmetic-in-modern-java/)
-- [Why is my Talk selected? Reflections from a Program Committee Reviewer](https://foojay.io/today/why-is-my-talk-selected-reflections-from-a-program-committee-reviewer/)
-- [JC-AI Newsletter #12](https://foojay.io/today/jc-ai-newsletter-12/)
+- [Security Doesn’t Start at Liftoff](https://foojay.io/today/security-doesnt-start-at-liftoff/)
+- [Java on Single Board Computers: x86 vs ARM vs RISC-V](https://foojay.io/today/java-on-single-board-computers-x86-vs-arm-vs-risc-v/)
+- [BoxLang AI v2: Enterprise AI Development Without the Complexity](https://foojay.io/today/boxlang-ai-v2-enterprise-ai-development-without-the-complexity/)
+- [OpenJDK January 2026 Critical Patch Update and Patch Set Update Released](https://foojay.io/today/openjdk-january-2026-critical-patch-update-and-patch-set-update-released/)
+- [Get high performance Java applications with IBM Semeru Runtimes](https://foojay.io/today/high-performance-java-semeru/)
 <!-- BLOG-POST-LIST:END -->  
