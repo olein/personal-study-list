@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [MongoDB Sharding: What to Know Before You Shard](https://foojay.io/today/mongodb-sharding-what-to-know-before-you-shard/)
-- [The Shai-Hulud Cyber Worm and more thoughts on supply chain attacks.](https://foojay.io/today/the-shai-hulud-cyber-worm-and-more-thoughts-on-supply-chain-attacks/)
-- [Unikernel: Profiling and Troubleshooting JVM on Nanos Unikernel](https://foojay.io/today/unikernel-profiling-and-troubleshooting-jvm-on-nanos-unikernel/)
-- [You’re invited to IntelliJ IDEA Conf 2026!](https://foojay.io/today/youre-invited-to-intellij-idea-conf-2026/)
-- [Reactive Java with Project Reactor](https://foojay.io/today/reactive-java-with-project-reactor/)
+- [Ports and Adapters in Java: Keeping Your Core Clean](https://foojay.io/today/ports-and-adapters-in-java-keeping-your-core-clean/)
+- [GlassFish 8 is here with Jakarta EE 11, virtual threads, and Jakarta Data](https://foojay.io/today/glassfish-8-is-here-with-jakarta-ee-11-virtual-threads-and-jakarta-data/)
+- [BoxLang NeoVim Plugin Released](https://foojay.io/today/boxlang-neovim-plugin-released/)
+- [First Test of Java on BeagleBoards &lpar;ARM and RISC-V&rpar;](https://foojay.io/today/first-test-of-java-on-beagleboards-arm-and-risc-v/)
+- [Optimizing the MongoDB Java Driver: How minor optimizations led to macro gains](https://foojay.io/today/optimizing-the-mongodb-java-driver-how-minor-optimizations-led-to-macro-gains/)
 <!-- BLOG-POST-LIST:END -->  
