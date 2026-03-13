@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [Role-Based Access Control in Java Applications](https://foojay.io/today/role-based-access-control-in-java-applications/)
-- [No Keys, No LLM: Building a Wikidata Definition API with Embabel](https://foojay.io/today/embabel-spring-boot-wikidata-definition-api/)
-- [I Benchmarked Java on Single-Board Computers: Orange Pi 5 Ultra and Raspberry Pi 5 Lead the Pack](https://foojay.io/today/java-benchmarks-on-single-board-computers/)
-- [Data Enrichment in MongoDB](https://foojay.io/today/data-enrichment-in-mongodb/)
-- [JC-AI Newsletter #14](https://foojay.io/today/jc-ai-newsletter-14/)
+- [Lottie4J 1.1.0: Better Rendering, Smarter Debugging, and an animated Lottie4J Logo!](https://foojay.io/today/lottie4j-1-1-0-better-rendering-smarter-debugging/)
+- [Atlas Online Archive: Efficiently Manage the Data Lifecycle](https://foojay.io/today/atlas-online-archive-efficiently-manage-the-data-lifecycle/)
+- [Event-Driven Architecture in Java and Kafka](https://foojay.io/today/event-driven-architecture-in-java-and-kafka/)
+- [Introducing the BoxLang IDE Plugin for IntelliJ](https://foojay.io/today/introducing-the-boxlang-ide-plugin-for-intellij/)
+- [Introducing Lottie4J, a Java&lpar;FX&rpar; Library to Parse and Play Lottie Animation Files](https://foojay.io/today/introducing-lottie4j-a-javafx-library-to-parse-and-play-lottie-animation-files/)
 <!-- BLOG-POST-LIST:END -->  
