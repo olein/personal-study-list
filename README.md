@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [Lottie4J 1.1.0: Better Rendering, Smarter Debugging, and an animated Lottie4J Logo!](https://foojay.io/today/lottie4j-1-1-0-better-rendering-smarter-debugging/)
-- [Atlas Online Archive: Efficiently Manage the Data Lifecycle](https://foojay.io/today/atlas-online-archive-efficiently-manage-the-data-lifecycle/)
-- [Event-Driven Architecture in Java and Kafka](https://foojay.io/today/event-driven-architecture-in-java-and-kafka/)
-- [Introducing the BoxLang IDE Plugin for IntelliJ](https://foojay.io/today/introducing-the-boxlang-ide-plugin-for-intellij/)
-- [Introducing Lottie4J, a Java&lpar;FX&rpar; Library to Parse and Play Lottie Animation Files](https://foojay.io/today/introducing-lottie4j-a-javafx-library-to-parse-and-play-lottie-animation-files/)
+- [Managing Native Memory in Java: Arenas, Malloc, and Custom Pools](https://foojay.io/today/java-native-memory-allocation-ffm-api/)
+- [JC-AI Newsletter #15](https://foojay.io/today/jc-ai-newsletter-15/)
+- [Building Reactive Data Streams with Project Reactor](https://foojay.io/today/building-reactive-data-streams-with-project-reactor/)
+- [Introducing the BoxLang Spring Boot Starter: Dynamic JVM Templating for Spring](https://foojay.io/today/introducing-the-boxlang-spring-boot-starter-dynamic-jvm-templating-for-spring/)
+- [How is Leyden improving Java Performance? Part 3 of 3](https://foojay.io/today/how-is-leyden-improving-java-performance-part-3-of-3/)
 <!-- BLOG-POST-LIST:END -->  
