@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [Managing Native Memory in Java: Arenas, Malloc, and Custom Pools](https://foojay.io/today/java-native-memory-allocation-ffm-api/)
-- [JC-AI Newsletter #15](https://foojay.io/today/jc-ai-newsletter-15/)
-- [Building Reactive Data Streams with Project Reactor](https://foojay.io/today/building-reactive-data-streams-with-project-reactor/)
-- [Introducing the BoxLang Spring Boot Starter: Dynamic JVM Templating for Spring](https://foojay.io/today/introducing-the-boxlang-spring-boot-starter-dynamic-jvm-templating-for-spring/)
-- [How is Leyden improving Java Performance? Part 3 of 3](https://foojay.io/today/how-is-leyden-improving-java-performance-part-3-of-3/)
+- [Modeling One-to-Many Relationships in Java with MongoDB](https://foojay.io/today/modeling-one-to-many-relationships-in-java-with-mongodb/)
+- [Spring Boot Actuator Health for MicroProfile Developers](https://foojay.io/today/spring-boot-actuator-health-for-microprofile-developers/)
+- [Does Language Still Matter in the Age of AI? Yes — But the Tradeoff Has Changed](https://foojay.io/today/does-language-still-matter-in-the-age-of-ai-yes-but-the-tradeoff-has-changed/)
+- [How We Built a Java AI Agent by Connecting the Dots the Ecosystem Already Had](https://foojay.io/today/how-we-built-a-java-ai-agent-by-connecting-the-dots-the-ecosystem-already-had/)
+- [Grails Isn’t Done Yet &lpar;Part 1&rpar;: Inside the ASF Reboot](https://foojay.io/today/grails-isnt-done-yet-part-1-inside-the-asf-reboot/)
 <!-- BLOG-POST-LIST:END -->  
