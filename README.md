@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [Modeling One-to-Many Relationships in Java with MongoDB](https://foojay.io/today/modeling-one-to-many-relationships-in-java-with-mongodb/)
-- [Spring Boot Actuator Health for MicroProfile Developers](https://foojay.io/today/spring-boot-actuator-health-for-microprofile-developers/)
-- [Does Language Still Matter in the Age of AI? Yes — But the Tradeoff Has Changed](https://foojay.io/today/does-language-still-matter-in-the-age-of-ai-yes-but-the-tradeoff-has-changed/)
-- [How We Built a Java AI Agent by Connecting the Dots the Ecosystem Already Had](https://foojay.io/today/how-we-built-a-java-ai-agent-by-connecting-the-dots-the-ecosystem-already-had/)
-- [Grails Isn’t Done Yet &lpar;Part 1&rpar;: Inside the ASF Reboot](https://foojay.io/today/grails-isnt-done-yet-part-1-inside-the-asf-reboot/)
+- [Does Java Really Use Too Much Memory? Let’s Look at the Facts &lpar;JEPs&rpar;](https://foojay.io/today/does-java-really-use-too-much-memory-lets-look-at-the-facts-jeps/)
+- [Java Faceted Full-Text Search API Using MongoDB Atlas Search](https://foojay.io/today/java-faceted-full-text-search-api-using-mongodb-atlas-search/)
+- [Oracle’s Java Verified Portfolio and JavaFX: What It Actually Means](https://foojay.io/today/the-javafx-revival/)
+- [Grails Isn’t Done Yet &lpar;Part 2&rpar;: EOL, Spring Boot, and What Comes Next](https://foojay.io/today/grails-isnt-done-yet-part-2-eol-spring-boot-and-what-comes-next/)
+- [Atlas Search Score Breakdown](https://foojay.io/today/atlas-search-score-breakdown/)
 <!-- BLOG-POST-LIST:END -->  
