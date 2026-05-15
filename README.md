@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [Using the Azul Zulu Docker Official Images: From Simple Pull to Lean Container](https://foojay.io/today/using-the-azul-zulu-docker-official-images-from-simple-pull-to-lean-container/)
-- [BoxLang AI Deep Dive — Part 7 of 7: MCP — The Protocol That Connects Everything](https://foojay.io/today/boxlang-ai-deep-dive-part-7-of-7-mcp-the-protocol-that-connects-everything/)
-- [Building an AI-Powered Operations Assistant with Spring AI and MongoDB Atlas — Part 1: RAG Foundation](https://foojay.io/today/building-an-ai-powered-operations-assistant-with-spring-ai-and-mongodb-atlas-part-1-rag-foundation/)
-- [Java is Not the Dark Side: Why Learning Java is Easier Than You Think](https://foojay.io/today/java-is-not-the-dark-side-why-learning-java-is-easier-than-you-think/)
-- [UCanAccess: The Modern Pure-Java Bridge to Microsoft Access](https://foojay.io/today/ucanaccess-java-ms-access-jdbc-guide/)
+- [Debugging BentoFX in MelodyMatrix with Matt Coley, Scenic View, and an Honest Look at AI-Generated Code](https://foojay.io/today/debugging-bentofx-in-melodymatrix-with-matt-coley-scenic-view-and-an-honest-look-at-ai-generated-code/)
+- [AI-Powered Code Review Assistant: Automated Code Analysis with Spring AI and MongoDB](https://foojay.io/today/ai-powered-code-review-assistant-automated-code-analysis-with-spring-ai-and-mongodb/)
+- [Azul Payara May 2026 Release – What’s New](https://foojay.io/today/whats-new-in-the-may-2026-azul-payara-release/)
+- [BoxLang AI Series: Complete Guide to Building AI Agents](https://foojay.io/today/boxlang-ai-series-complete-guide-to-building-ai-agents/)
+- [Testing Lottie4J JavaFX Animations in GitHub Actions Without a Display: JavaFX 26 Headless to the Rescue](https://foojay.io/today/testing-lottie4j-javafx-animations-in-github-actions-with-javafx-26-headless/)
 <!-- BLOG-POST-LIST:END -->  
