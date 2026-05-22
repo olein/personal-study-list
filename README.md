@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [Debugging BentoFX in MelodyMatrix with Matt Coley, Scenic View, and an Honest Look at AI-Generated Code](https://foojay.io/today/debugging-bentofx-in-melodymatrix-with-matt-coley-scenic-view-and-an-honest-look-at-ai-generated-code/)
-- [AI-Powered Code Review Assistant: Automated Code Analysis with Spring AI and MongoDB](https://foojay.io/today/ai-powered-code-review-assistant-automated-code-analysis-with-spring-ai-and-mongodb/)
-- [Azul Payara May 2026 Release – What’s New](https://foojay.io/today/whats-new-in-the-may-2026-azul-payara-release/)
-- [BoxLang AI Series: Complete Guide to Building AI Agents](https://foojay.io/today/boxlang-ai-series-complete-guide-to-building-ai-agents/)
-- [Testing Lottie4J JavaFX Animations in GitHub Actions Without a Display: JavaFX 26 Headless to the Rescue](https://foojay.io/today/testing-lottie4j-javafx-animations-in-github-actions-with-javafx-26-headless/)
+- [Context Is a Budget — Eight levers and three workflow patterns](https://foojay.io/today/context-is-a-budget-eight-levers-and-three-workflow-patterns/)
+- [Introducing skills.boxlang.io — The Open Agent Skills Ecosystem for BoxLang &amp; the Ortus World](https://foojay.io/today/introducing-skills-boxlang-io-the-open-agent-skills-ecosystem-for-boxlang-the-ortus-world/)
+- [Implementing Soft Deletes in Java](https://foojay.io/today/implementing-soft-deletes-in-java/)
+- [Metal and Skins](https://foojay.io/today/metal-and-skins/)
+- [All Azul Zulu Container Images Explained: CA, SA, and Chainguard](https://foojay.io/today/all-azul-zulu-container-images-explained-ca-sa-and-chainguard/)
 <!-- BLOG-POST-LIST:END -->  
