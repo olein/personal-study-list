@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [Context Is a Budget — Eight levers and three workflow patterns](https://foojay.io/today/context-is-a-budget-eight-levers-and-three-workflow-patterns/)
-- [Introducing skills.boxlang.io — The Open Agent Skills Ecosystem for BoxLang &amp; the Ortus World](https://foojay.io/today/introducing-skills-boxlang-io-the-open-agent-skills-ecosystem-for-boxlang-the-ortus-world/)
-- [Implementing Soft Deletes in Java](https://foojay.io/today/implementing-soft-deletes-in-java/)
-- [Metal and Skins](https://foojay.io/today/metal-and-skins/)
-- [All Azul Zulu Container Images Explained: CA, SA, and Chainguard](https://foojay.io/today/all-azul-zulu-container-images-explained-ca-sa-and-chainguard/)
+- [Why Enterprise Java Teams Need Quality Gates Even More in the Age of AI](https://foojay.io/today/enterprise-java-quality-gates-ai/)
+- [Exploring MongoT &lpar;Atlas Search&rpar;](https://foojay.io/today/exploring-mongot-atlas-search/)
+- [Intro to the BoxLang Formatter](https://foojay.io/today/intro-to-the-boxlang-formatter/)
+- [Why I Banned ThreadLocal from the Exeris Kernel &lpar;And What Replaced It&rpar;](https://foojay.io/today/banned-threadlocal-java-scoped-values/)
+- [Skills, Java 17, And Theme Accents with Codename One](https://foojay.io/today/skills-java-17-and-theme-accents-with-codename-one/)
 <!-- BLOG-POST-LIST:END -->  
