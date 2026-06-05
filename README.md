@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [Why Enterprise Java Teams Need Quality Gates Even More in the Age of AI](https://foojay.io/today/enterprise-java-quality-gates-ai/)
-- [Exploring MongoT &lpar;Atlas Search&rpar;](https://foojay.io/today/exploring-mongot-atlas-search/)
-- [Intro to the BoxLang Formatter](https://foojay.io/today/intro-to-the-boxlang-formatter/)
-- [Why I Banned ThreadLocal from the Exeris Kernel &lpar;And What Replaced It&rpar;](https://foojay.io/today/banned-threadlocal-java-scoped-values/)
-- [Skills, Java 17, And Theme Accents with Codename One](https://foojay.io/today/skills-java-17-and-theme-accents-with-codename-one/)
+- [“Agentic” Was Everywhere at Money20/20 Amsterdam — Once I Started Looking](https://foojay.io/today/agentic-was-everywhere-at-money20-20-amsterdam-once-i-started-looking/)
+- [Spring Boot Migration and the CRA: When Good Enough Isn’t](https://foojay.io/today/spring-boot-migration-and-the-cra-when-good-enough-isnt/)
+- [Context Is Code: A Tour of APM and AgentRC](https://foojay.io/today/context-is-code-a-tour-of-apm-and-agentrc/)
+- [Tiberius: A Security Testing Framework for LLM Applications in Java](https://foojay.io/today/tiberius-a-security-testing-framework-for-llm-applications-in-java/)
+- [MongoDB as a Vector Database for AI Agents-MongoDB](https://foojay.io/today/mongodb-as-a-vector-database-for-ai-agents-mongodb/)
 <!-- BLOG-POST-LIST:END -->  
