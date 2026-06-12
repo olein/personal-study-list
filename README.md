@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [“Agentic” Was Everywhere at Money20/20 Amsterdam — Once I Started Looking](https://foojay.io/today/agentic-was-everywhere-at-money20-20-amsterdam-once-i-started-looking/)
-- [Spring Boot Migration and the CRA: When Good Enough Isn’t](https://foojay.io/today/spring-boot-migration-and-the-cra-when-good-enough-isnt/)
-- [Context Is Code: A Tour of APM and AgentRC](https://foojay.io/today/context-is-code-a-tour-of-apm-and-agentrc/)
-- [Tiberius: A Security Testing Framework for LLM Applications in Java](https://foojay.io/today/tiberius-a-security-testing-framework-for-llm-applications-in-java/)
-- [MongoDB as a Vector Database for AI Agents-MongoDB](https://foojay.io/today/mongodb-as-a-vector-database-for-ai-agents-mongodb/)
+- [Codename One: On-Device Debugging And JUnit 5](https://foojay.io/today/on-device-debugging-and-junit-5/)
+- [BoxLang 1.14.0 : Introducing Inner Classes](https://foojay.io/today/boxlang-1-14-0-introducing-inner-classes/)
+- [Building an AI-Powered Operations Assistant with Spring AI and MongoDB Atlas — Part 2: Conversational Memory](https://foojay.io/today/building-an-ai-powered-operations-assistant-with-spring-ai-and-mongodb-atlas-part-2-conversational-memory/)
+- [Why Spring Teams Don’t Need a Second Runtime for AI Agents](https://foojay.io/today/spring-ai-agents-no-second-runtime/)
+- [Your TLS Stack Is Lying to You About Zero-Copy](https://foojay.io/today/your-tls-stack-is-lying-about-zero-copy/)
 <!-- BLOG-POST-LIST:END -->  
