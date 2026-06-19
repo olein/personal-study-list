@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [Codename One: On-Device Debugging And JUnit 5](https://foojay.io/today/on-device-debugging-and-junit-5/)
-- [BoxLang 1.14.0 : Introducing Inner Classes](https://foojay.io/today/boxlang-1-14-0-introducing-inner-classes/)
-- [Building an AI-Powered Operations Assistant with Spring AI and MongoDB Atlas — Part 2: Conversational Memory](https://foojay.io/today/building-an-ai-powered-operations-assistant-with-spring-ai-and-mongodb-atlas-part-2-conversational-memory/)
-- [Why Spring Teams Don’t Need a Second Runtime for AI Agents](https://foojay.io/today/spring-ai-agents-no-second-runtime/)
-- [Your TLS Stack Is Lying to You About Zero-Copy](https://foojay.io/today/your-tls-stack-is-lying-about-zero-copy/)
+- [Where production policy belongs: building Eliya in public &lpar;part 1&rpar;](https://foojay.io/today/where-production-policy-belongs-building-eliya-in-public/)
+- [Building Java Containers Without a Dockerfile: Azul Zulu and Paketo Buildpacks](https://foojay.io/today/building-java-containers-without-a-dockerfile-azul-zulu-and-paketo-buildpacks/)
+- [OpenAPI, ORM, SVG and Lottie](https://foojay.io/today/openapi-orm-svg-and-lottie/)
+- [Mac Native Builds, Live Protocols, And Open Issues Under 350](https://foojay.io/today/mac-native-builds-live-protocols-and-open-issues-under-350/)
+- [BoxLang 1.14.0 : BoxSet is Here, BoxLang’s New First-Class Set Type](https://foojay.io/today/boxlang-1-14-0-boxset-is-here-boxlangs-new-first-class-set-type/)
 <!-- BLOG-POST-LIST:END -->  
