@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [Where production policy belongs: building Eliya in public &lpar;part 1&rpar;](https://foojay.io/today/where-production-policy-belongs-building-eliya-in-public/)
-- [Building Java Containers Without a Dockerfile: Azul Zulu and Paketo Buildpacks](https://foojay.io/today/building-java-containers-without-a-dockerfile-azul-zulu-and-paketo-buildpacks/)
-- [OpenAPI, ORM, SVG and Lottie](https://foojay.io/today/openapi-orm-svg-and-lottie/)
-- [Mac Native Builds, Live Protocols, And Open Issues Under 350](https://foojay.io/today/mac-native-builds-live-protocols-and-open-issues-under-350/)
-- [BoxLang 1.14.0 : BoxSet is Here, BoxLang’s New First-Class Set Type](https://foojay.io/today/boxlang-1-14-0-boxset-is-here-boxlangs-new-first-class-set-type/)
+- [Jurassic JDK: Migrate or Extinct](https://foojay.io/today/jurassic-jdk-migrate-or-extinct/)
+- [Aggregation Optimization in MongoDB: Unnecessary Unwinds &lpar;Part 2&rpar;](https://foojay.io/today/aggregation-optimization-in-mongodb-unnecessary-unwinds-part-2/)
+- [Pi4J Drivers: Simplifying Sensor and Hardware Integration in Java](https://foojay.io/today/pi4j-drivers-simplifying-sensor-and-hardware-integration-in-java/)
+- [What’s New In The June 2026 Azul Payara Release?](https://foojay.io/today/whats-new-in-the-june-2026-azul-payara-release/)
+- [BoxLang 1.14.0 : Query Transformers – Take Full Control of Your Query Results](https://foojay.io/today/boxlang-1-14-0-query-transformers-take-full-control-of-your-query-results/)
 <!-- BLOG-POST-LIST:END -->  
