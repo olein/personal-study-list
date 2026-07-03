@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [Jurassic JDK: Migrate or Extinct](https://foojay.io/today/jurassic-jdk-migrate-or-extinct/)
-- [Aggregation Optimization in MongoDB: Unnecessary Unwinds &lpar;Part 2&rpar;](https://foojay.io/today/aggregation-optimization-in-mongodb-unnecessary-unwinds-part-2/)
-- [Pi4J Drivers: Simplifying Sensor and Hardware Integration in Java](https://foojay.io/today/pi4j-drivers-simplifying-sensor-and-hardware-integration-in-java/)
-- [What’s New In The June 2026 Azul Payara Release?](https://foojay.io/today/whats-new-in-the-june-2026-azul-payara-release/)
-- [BoxLang 1.14.0 : Query Transformers – Take Full Control of Your Query Results](https://foojay.io/today/boxlang-1-14-0-query-transformers-take-full-control-of-your-query-results/)
+- [This Dependency Update Looked Exactly Like an Account Takeover](https://foojay.io/today/this-dependency-update-looked-exactly-like-an-account-takeover/)
+- [BoxLang 1.14.0 : Navigate Anything: JSONPath Comes to BoxLang’s DataNavigator](https://foojay.io/today/boxlang-1-14-0-navigate-anything-jsonpath-comes-to-boxlangs-datanavigator/)
+- [Building AI Systems with MongoDB: Implementing the Planning Pattern](https://foojay.io/today/building-ai-systems-with-mongodb-implementing-the-planning-pattern/)
+- [Using the Raspberry Pi Sense HAT with Pi4J Drivers](https://foojay.io/today/using-the-raspberry-pi-sense-hat-with-pi4j-drivers/)
+- [JavaFX Links of June 2026](https://foojay.io/today/javafx-links-of-june-2026/)
 <!-- BLOG-POST-LIST:END -->  
