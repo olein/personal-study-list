@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [“This Can’t Possibly Work”: What I Learned at a Temporal.io Workshop](https://foojay.io/today/this-cant-possibly-work-what-i-learned-at-a-temporal-io-workshop-on-durable-execution/)
-- [BoxLang 1.14.0 : Sets, Ranges, Inner Classes, and a Runtime That Talks Back](https://foojay.io/today/boxlang-1-14-0-sets-ranges-inner-classes-and-a-runtime-that-talks-back/)
-- [Nulling Out References Won’t Help Your Garbage Collector](https://foojay.io/today/nulling-out-references-wont-help-your-garbage-collector/)
-- [The Java Story: A Film About All of Us](https://foojay.io/today/the-java-story-a-film-about-all-of-us/)
-- [What’s New in actions/setup-java 5.4 and 5.5: Signature Verification, Kona JDK, and a Better Maven Experience](https://foojay.io/today/whats-new-in-actions-setup-java-5-4-and-5-5-signature-verification-kona-jdk-and-a-better-maven-experience/)
+- [Warm Up Fast, Run Lean: Vertical Scaling for Java on Kubernetes with Azul Prime and Kedify](https://foojay.io/today/warm-up-fast-run-lean-vertical-scaling-for-java-on-kubernetes-with-azul-prime-and-kedify/)
+- [Your Loom App Quietly Became a Thread Pool Again: A Field Guide to Virtual Thread Pinning](https://foojay.io/today/virtual-thread-pinning-field-guide/)
+- [BoxLang 1.15.0 Released: Blazing Fast Strings, Runtime Portability, and much more](https://foojay.io/today/boxlang-1-15-0-released-blazing-fast-strings-runtime-portability-and-much-more/)
+- [I Asked GitHub Copilot to Profile a Java App. It Found a Bug in My Heap Sizing, and Offered to Fix It](https://foojay.io/today/i-asked-github-copilot-to-profile-a-java-app-it-found-a-bug-in-my-heap-sizing-and-offered-to-fix-it/)
+- [Foojay Podcast #100: Java Podcasters on Why They Started, What Broke, and What They Learned](https://foojay.io/today/foojay-podcast-100/)
 <!-- BLOG-POST-LIST:END -->  
