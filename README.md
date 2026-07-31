@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [AI Found the Bugs. Who’s Patching Your EOL Java Code?](https://foojay.io/today/ai-found-the-bugs-whos-patching-your-eol-java-code/)
-- [Azul Zulu July 2026 Quarterly Update Released](https://foojay.io/today/azul-zulu-july-2026-quarterly-update-released/)
-- [What’s New In The July 2026 Azul Payara Release?](https://foojay.io/today/whats-new-in-the-july-2026-azul-payara-release/)
-- [BoxLang AWS, Azure, and Google Secrets Manager Module Released](https://foojay.io/today/boxlang-aws-azure-and-google-secrets-manager-module-released/)
-- [First Test of Java on Banana Pi &lpar;ARM and RISC-V&rpar;, Plus a Blinking LED with Pi4J](https://foojay.io/today/first-test-of-java-on-banana-pi-arm-and-risc-v-plus-a-blinking-led-with-pi4j/)
+- [Keeping Java Hot This Summer: August 2026 US &amp; Canada JUG Tour with Simon Ritter](https://foojay.io/today/keeping-java-hot-this-summer-august-2026/)
+- [How to Create a Spring Boot Fraud Scoring Service](https://foojay.io/today/how-to-create-a-spring-boot-fraud-scoring-service/)
+- [HTTP QUERY Method Explained: RFC 10008, Ecosystem Adoption, and a Quarkus Implementation](https://foojay.io/today/http-query-method-explained-rfc-10008-ecosystem-adoption-and-a-quarkus-implementation/)
+- [Introducing Sheetmusic4J, a Java&lpar;FX&rpar; Library to Render and Interact with Sheet Music](https://foojay.io/today/introducing-sheetmusic4j-a-javafx-library-to-render-and-interact-with-sheet-music/)
+- [Featured Foojay Authors for July and August 2026](https://foojay.io/today/featured-authors-july-and-august-2026/)
 <!-- BLOG-POST-LIST:END -->  
