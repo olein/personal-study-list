@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [Keeping Java Hot This Summer: August 2026 US &amp; Canada JUG Tour with Simon Ritter](https://foojay.io/today/keeping-java-hot-this-summer-august-2026/)
-- [How to Create a Spring Boot Fraud Scoring Service](https://foojay.io/today/how-to-create-a-spring-boot-fraud-scoring-service/)
-- [HTTP QUERY Method Explained: RFC 10008, Ecosystem Adoption, and a Quarkus Implementation](https://foojay.io/today/http-query-method-explained-rfc-10008-ecosystem-adoption-and-a-quarkus-implementation/)
-- [Introducing Sheetmusic4J, a Java&lpar;FX&rpar; Library to Render and Interact with Sheet Music](https://foojay.io/today/introducing-sheetmusic4j-a-javafx-library-to-render-and-interact-with-sheet-music/)
-- [Featured Foojay Authors for July and August 2026](https://foojay.io/today/featured-authors-july-and-august-2026/)
+- [Embedding DuckDB in a Maven App &lpar;and Using It for Things That Aren’t Databases&rpar;](https://foojay.io/today/embedding-duckdb-in-a-maven-app-and-using-it-for-things-that-arent-databases/)
+- [Sheetmusic4J 0.0.3: ABC Notation, Guitar Pro, Engraving Improvements](https://foojay.io/today/sheetmusic4j-0-0-3-abc-notation-guitar-pro-engraving-improvements/)
+- [Jakarta Agentic AI Hits Its First Milestone](https://foojay.io/today/jakarta-agentic-ai-hits-its-first-milestone/)
+- [Idempotent REST Endpoints Without the Boilerplate](https://foojay.io/today/idempotent-spring-boot-starter/)
+- [The Codename One JavaScript Port Is Now Free and Open Source](https://foojay.io/today/the-codename-one-javascript-port-is-now-free-and-open-source/)
 <!-- BLOG-POST-LIST:END -->  
