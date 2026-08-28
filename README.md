@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [Azul August 2026 Release: Java’s First Monthly CSPU](https://foojay.io/today/azul-august-2026-release-javas-first-monthly-cspu/)
-- [Introducing BoxLang AI Explorer: A Local Catalog for Every AI Pattern](https://foojay.io/today/introducing-boxlang-ai-explorer-a-local-catalog-for-every-ai-pattern/)
-- [Vibe Coding, Maven, and the Dependencies You Didn’t Choose](https://foojay.io/today/vibe-coding-maven-and-the-dependencies-you-didnt-choose/)
-- [Idempotent Write Paths: Keeping an Integration Pipeline Correct When Messages Repeat](https://foojay.io/today/idempotent-write-paths-keeping-an-integration-pipeline-correct-when-messages-repeat/)
-- [Build Secure AI Chat Applications with BoxLang, RAG, Ollama, and Amazon Bedrock with Dan Card](https://foojay.io/today/build-secure-ai-chat-applications-with-boxlang-rag-ollama-and-amazon-bedrock-with-dan-card/)
+- [App Shield: Your Server Should Not Trust the App Calling It](https://foojay.io/today/app-shield-your-server-should-not-trust-the-app-calling-it/)
+- [BoxLang 1.16.0 Released!](https://foojay.io/today/boxlang-1-16-0-released/)
+- [Scripting in small apps: you don’t need a container for a macro](https://foojay.io/today/scripting-in-small-apps-you-dont-need-a-container-for-a-macro/)
+- [What’s New In The August 2026 Azul Payara Release?](https://foojay.io/today/whats-new-in-the-august-2026-azul-payara-release/)
+- [Offline Crypto Address Validation in Java](https://foojay.io/today/offline-crypto-address-validation-in-java/)
 <!-- BLOG-POST-LIST:END -->  
