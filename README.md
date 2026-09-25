@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [From Spec-Driven Development to Living Specifications in Java Projects](https://foojay.io/today/from-spec-driven-development-to-living-specifications-in-java-projects/)
-- [Building an Agentic Warehouse Management System — Part 3: Tools, Decisions, and Actions](https://foojay.io/today/building-an-agentic-warehouse-management-system-part-3-tools-decisions-and-actions/)
-- [Building an Agentic Warehouse Management System — Part 2: Java and Spring AI](https://foojay.io/today/building-an-agentic-warehouse-management-system-part-2-java-and-spring-ai/)
-- [Building an Agentic Warehouse Management System — Part 1: Where AI Agents Add Value](https://foojay.io/today/building-an-agentic-warehouse-management-system-part-1-where-ai-agents-add-value/)
-- [Did Your AI Agent Run the Debugger? One JVM Bug, Two Agent Runs](https://foojay.io/today/did-your-ai-agent-run-the-debugger-one-jvm-bug-two-agent-runs/)
+- [VoIP, VPN, and the Build System Behind Them](https://foojay.io/today/voip-vpn-builders/)
+- [BoxLang AI 3.4.0: Gateways, Human-in-the-Loop, and a Full Security Stack](https://foojay.io/today/boxlang-ai-340-gateways-hitl-security/)
+- [Diagrams as Code: Mermaid Support on the new Foojay](https://foojay.io/today/diagrams-as-code-mermaid-support-on-foojay/)
+- [AsciiDoc Support on the new Foojay](https://foojay.io/today/asciidoc-support-on-foojay/)
+- [Announcing The New Foojay](https://foojay.io/today/announcing-the-new-foojay/)
 <!-- BLOG-POST-LIST:END -->  
