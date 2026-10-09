@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [Changes Included in Release 26.08 of Azul Zing Builds of OpenJDK](https://foojay.io/today/changes-included-in-release-26-08-of-azul-zing-builds-of-openjdk/)
-- [Why Every JVM In Your Fleet Warms Up Alone](https://foojay.io/today/why-every-jvm-in-your-fleet-warms-up-alone/)
-- [Lathe: A Java Language Server That Works Straight From Your Maven Build](https://foojay.io/today/lathe-a-java-language-server-from-your-maven-build/)
-- [Announcing &#39;Skinning JavaFX Applications&#39;](https://foojay.io/today/announcing-skinning-javafx-applications/)
-- [My love-hate relationship with Java formatters](https://foojay.io/today/my-love-hate-relationship-with-java-formatters/)
+- [We Didn&#39;t Want to Build Another Java Server](https://foojay.io/today/why-another-java-server/)
+- [Introducing cbGenesis: The AI-Native ColdBox Starter for BoxLang](https://foojay.io/today/introducing-cbgenesis-ai-native-coldbox-starter-for-boxlang/)
+- [How to Create Agent Skills: Tools, Testing, and Installation](https://foojay.io/today/how-to-create-test-install-agent-skills/)
+- [try.boxlang.io Now Runs Every BoxLang Version, With or Without CFML](https://foojay.io/today/tryboxlang/)
+- [Introducing Jenesis: You Already Wrote the Build Script](https://foojay.io/today/introducing-jenesis/)
 <!-- BLOG-POST-LIST:END -->  
