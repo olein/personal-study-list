@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [We Didn&#39;t Want to Build Another Java Server](https://foojay.io/today/why-another-java-server/)
-- [Introducing cbGenesis: The AI-Native ColdBox Starter for BoxLang](https://foojay.io/today/introducing-cbgenesis-ai-native-coldbox-starter-for-boxlang/)
-- [How to Create Agent Skills: Tools, Testing, and Installation](https://foojay.io/today/how-to-create-test-install-agent-skills/)
-- [try.boxlang.io Now Runs Every BoxLang Version, With or Without CFML](https://foojay.io/today/tryboxlang/)
-- [Introducing Jenesis: You Already Wrote the Build Script](https://foojay.io/today/introducing-jenesis/)
+- [Build Your First SaaS with MongoDB Ephemeral Clusters](https://foojay.io/today/build-your-first-saas-with-mongodb-ephemeral-clusters/)
+- [Apple Shouldn&#39;t Dictate Your App&#39;s Redesign Schedule](https://foojay.io/today/who-decides-your-app-redesign/)
+- [A Smaller, Faster Java Server with a Spring-Style API](https://foojay.io/today/java-server-work-before-startup/)
+- [Scraping websites and bot-protection](https://foojay.io/today/bypass-bot-protection/)
+- [Lightweight Spring Boot Monitoring Without Prometheus and Grafana](https://foojay.io/today/lightweight-spring-boot-monitoring/)
 <!-- BLOG-POST-LIST:END -->  
