@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [Rewrite Everything in Java: Not Rust](https://foojay.io/today/rewrite-everything-in-java-not-rust/)
-- [OpenID Federation with pac4j and CAS](https://foojay.io/today/openid-federation-with-pac4j-and-cas/)
-- [An IDE for Coding Agents: NetBeans Refactorings over MCP](https://foojay.io/today/ide-for-coding-agents-netbeans-mcp/)
-- [The Maven Build Cache in Practice](https://foojay.io/today/maven-build-cache-in-practice/)
-- [How We Share Foojay Posts on Social Media](https://foojay.io/today/how-we-share-foojay-posts-on-social-media/)
+- [The tests passed. The feature had never worked.](https://foojay.io/today/the-tests-passed-the-feature-had-never-worked/)
+- [jip: Clone a Java Project. Run It. Done.](https://foojay.io/today/jip/)
+- [Streaming Large File Uploads in Java Without Killing Your Server](https://foojay.io/today/streaming-large-file-uploads/)
+- [Spring AI or LangChain4j? One App, Three Stacks, One Test](https://foojay.io/today/spring-ai-langchain4j-three-stacks-one-test/)
+- [Java Patching at Incident Speed: Lessons from the eMudhra CA Compromise](https://foojay.io/today/java-patching-at-incident-speed-lessons-from-the-emudhra-ca-compromise/)
 <!-- BLOG-POST-LIST:END -->  
