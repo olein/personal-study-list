@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [Skills across coding assistants](https://foojay.io/today/skills-across-coding-assistants/)
-- [Jakarta EE Testing Tools Compared: WeldInitiator, Arquillian and Testcontainers](https://foojay.io/today/jakarta-ee-testing-tools-compared-weldinitiator-arquillian-and-testcontainers/)
-- [Analytics in the Browser with DuckDB-Wasm and a Java Backend](https://foojay.io/today/analytics-in-the-browser-with-duckdb-wasm/)
-- [Spring ApplicationContext Hierarchy and a High CVE in Axelix](https://foojay.io/today/spring-context-hierarchy/)
-- [Java 27: What’s New?](https://foojay.io/today/java-27-whats-new/)
+- [Small, Signed, and Still Vulnerable? What Really Makes a Java Container Secure](https://foojay.io/today/what-makes-java-containers-secure/)
+- [Porto TechHub 2026](https://foojay.io/today/porto-techhub-2026/)
+- [Paging DTO Projections in Spring Data JPA: Three Approaches Compared](https://foojay.io/today/paging-dto-projections-spring-data-jpa/)
+- [Building a full-stack web app using only Java, in 5 small classes](https://foojay.io/today/build-full-stack-web-app-in-java-with-webforj/)
+- [Your Agent&#39;s Tool Calls Will Run Twice: Idempotency and Evaluation Gates in Java Services](https://foojay.io/today/agent-tool-calls-run-twice/)
 <!-- BLOG-POST-LIST:END -->  
