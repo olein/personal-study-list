@@ -1,8 +1,8 @@
 ## Personal Study List
 <!-- BLOG-POST-LIST:START -->
-- [Small, Signed, and Still Vulnerable? What Really Makes a Java Container Secure](https://foojay.io/today/what-makes-java-containers-secure/)
-- [Porto TechHub 2026](https://foojay.io/today/porto-techhub-2026/)
-- [Paging DTO Projections in Spring Data JPA: Three Approaches Compared](https://foojay.io/today/paging-dto-projections-spring-data-jpa/)
-- [Building a full-stack web app using only Java, in 5 small classes](https://foojay.io/today/build-full-stack-web-app-in-java-with-webforj/)
-- [Your Agent&#39;s Tool Calls Will Run Twice: Idempotency and Evaluation Gates in Java Services](https://foojay.io/today/agent-tool-calls-run-twice/)
+- [When an agent dies after saying yes](https://foojay.io/today/when-an-agent-dies-after-saying-yes/)
+- [On reviewing AI-generated code](https://foojay.io/today/reviewing-ai-generated-code/)
+- [No-Boilerplate, Warning-Free and Reproducible Builds on Maven 4](https://foojay.io/today/no-boilerplate-maven-4-builds/)
+- [Building Token Budgets for Spring AI: The Problems I Didn&#39;t Expect](https://foojay.io/today/building-token-budgets-for-spring-ai-the-problems-i-didnt-expect/)
+- [What Java4Shell Teaches About Patching Java at AI Speed](https://foojay.io/today/what-java4shell-teaches-about-patching-java-at-ai-speed/)
 <!-- BLOG-POST-LIST:END -->  
